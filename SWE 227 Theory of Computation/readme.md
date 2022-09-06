@@ -1,4 +1,4 @@
-<h1 align="center"> Teacher - MD Raihan Ullah</h1>
+<h1 align="center">Theory of Computation</h1>
 
 # Book - Hopcroft
 ### Chapter
