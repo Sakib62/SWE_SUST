@@ -35,3 +35,38 @@ Problem Description->Mathematical Model->Solution of Mathematical model->Using t
 
 ### Lecture-02: 31th August, 2022
 
+**Why measure errors?**
+- to determine the accuracy of numerical results
+- to develop stopping criteria for iterative algorithm
+
+**Error**
+- True error
+- Relative true error
+- Approximate error
+- Relative approximate error
+- Absolute relative approximate error (Used as a stopping criteria)
+    - If |∈a|<=∈s where ∈s is a pre-specified tolerance, then no further iterations are necessary and the process is stopped.
+
+**Mathematical Procedure**
+- Nonlinear Equations
+- Differentiation
+- Simultaneous Linear Equations
+- Curve Fitting
+    - Interpolation
+    - Regression
+- Integration
+- Ordinary Differential Equations
+
+**Advanced Mathematical Procedure**
+- Partial Differential Equations
+- Optimization
+- Fast Fourier Transforms
+
+Matlab, octave??
+
+<br>
+<br>
+
+## Lecture-03: 5th September, 2022
+
+
