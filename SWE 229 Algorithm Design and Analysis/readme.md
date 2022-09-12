@@ -31,3 +31,8 @@
 3. Extended Euclid
 4. Modular Multiplicative Inverse
 5. Fermat's Little Theorem
+
+## Lecture-06: 11th September, 2022
+
+1. Shortest Path 
+2. Floyd Warshall
