@@ -1,8 +1,8 @@
 <h1 align="center">Theory of Computation</h1>
-
 <h3 align="center"> <a href="https://drive.google.com/drive/u/0/folders/1xrvCjgRVIXaYLJ7Sjc6L1S_gI-sp-l_c" title="Drive Link of TOC"><ins>Drive Link</ins></a></h3>
 
-### Book - Hopcroft
+<details>
+<summary> <h2>Book - Hopcroft</h2> </summary>
 
 **Chapter**
   1. Automata: The Methods and the Madness
@@ -23,19 +23,20 @@
 - Class Performance
 - Attendance
 
-<br>
+</details>
 
-## Lecture-01: 22nd August, 2022
+<details>
+<summary> <h2>Lecture-01: 22nd August, 2022</h2> </summary>
 
 1. What is Automata?
 2. Deductive Proof
     - Prove that if x >= 4 then 2^x >= x^2
     - Prove that if x is the sum of squares of four positive integer numbers then 2^x = x^2
 
-<br>
-<br>
+</details>
 
-## Lecture-02: 12th September, 2022
+<details>
+<summary><h2>Lecture-02: 12th September, 2022</h2></summary>
 
 **Proof about Sets**
 
@@ -111,5 +112,9 @@ I.S: summaiton of i^2(i from 0 to n+1) =
 
 =>  n * (n+1) * (2n+1) / 6 + (n+1)^2 = (2n^3+9n^2+13n+6)/6
 ```
-<br>
-<br>
+</details>
+
+<details>
+<summary><h2>Lecture-03: </summary>
+
+</details>
