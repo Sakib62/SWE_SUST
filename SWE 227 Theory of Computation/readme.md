@@ -47,8 +47,9 @@
 
 **Proof by counter example**
 - All odd numbers are prime (Not all)
-- Prove: *There is no pair of integer a and b such that a mod b = b mod a (a!=b)*
-    - ```
+- <details> <summary><b>Prove: There is no pair of integer a and b such that a mod b = b mod a (a!=b)</b></summary>
+     
+     ```
         ### a > b
             a mod b = c = [0, b-1]
             
@@ -70,13 +71,13 @@
             So, a mod b == b mod a
             
         So, If a!=b then there is no pair of integer a and b such that a mod b = b mod a
-      ```
+      
       
 **Inductive Proof**
 
 First a basis, then inductive steps(by incrementing basis)
 
-*If x>=4 then 2^x>=x*x
+<details><summary><b>If x>=4 then 2^x>=x*x</b></summary>
 
 For basis: x = 4
 
@@ -98,8 +99,10 @@ If x > 4, 1/x gets smaller
 So, R.H.S is always greater than L.H.S
 
 So, hypothesis holds!
+<br>
+</details>
         
-**For n >= 0, summation of i^2(i from 0 to n) = n * (n+1) * (2n+1) / 6**
+<details><summary><b>For n >= 0, summation of i^2(i from 0 to n) = n * (n+1) * (2n+1) / 6</b></summary>
 
 Basis Step: n = 0
 
@@ -112,6 +115,9 @@ I.S: summaiton of i^2(i from 0 to n+1) =
 
 =>  n * (n+1) * (2n+1) / 6 + (n+1)^2 = (2n^3+9n^2+13n+6)/6
 ```
+
+</details>
+
 </details>
 
 <details>
