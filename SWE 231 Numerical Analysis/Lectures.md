@@ -10,7 +10,8 @@
 
 ***Book: Numerical Methods for Engineers by Steven C. Chapra***
 
-## Lecture-01: 29th August, 2022
+<details>
+<summary><h2>Lecture-01: 29th August, 2022</h2></summary>
 
 Exact solution cannot always be extracted. We need to be as precise as we can.
 
@@ -31,10 +32,10 @@ Problem Description->Mathematical Model->Solution of Mathematical model->Using t
 
 *(~My note: Need to revise following course-> Calculus, Linear Algebra, Statistics~)*
 
-<br>
-<br>
+</details>
 
-## Lecture-02: 31th August, 2022
+<details>
+<summary><h2>Lecture-02: 31th August, 2022</h2></summary>
 
 **Why measure errors?**
 - to determine the accuracy of numerical results
@@ -70,10 +71,10 @@ Problem Description->Mathematical Model->Solution of Mathematical model->Using t
 - Maple
 - Mathematica
 
-<br>
-<br>
+</details>
 
-## Lecture-03: 5th September, 2022
+<details>
+<summary><h2>Lecture-03: 5th September, 2022</h2></summary>
 
 Through Numerical Analysis
 - we find an approximate value
@@ -97,7 +98,7 @@ We do not need numerical analysis here because we have found the exact solutions
 (~Need to learn proof of these methods~)<br>
 (~Math using calculator. Solution size is large. Step By Step by following book. If some digits after decimal point matches in consecutive iteration, terminate.~)
 
-**Bisection Method**
+**🎈Bisection Method**
 
 If a function ***f(x)*** is continuous between *a* and *b* and ***f(a).f(b) < 0*** (or ***f(a)*** and ***f(b)*** are of opposite sign), then there exist ***at least one root*** between *a* and *b*.
 
@@ -111,5 +112,114 @@ Find the root of the following functions using bisection method:
 2. ***f(x) = x^3 + x^2 - 1 = 0; a = 0, b = 1***
 3. ***f(x) = x^2 + sin(x) - 1 = 0; a = null, b = null***
 
-<br>
-<br>
+</details>
+
+<details>
+<summary><h2>Lecture-04: 14th September, 2022</h2></summary>
+
+**🎈False Position Method**
+
+In the graph of a given funciton f(x), point1 (a, f(a)) & point2 (b, f(b)) makes a straight line.
+
+<details>
+<summary><b>Given two points, equation of straight line is:</b></summary> 
+
+```
+    (y-y1) / (y2-y1) = (x-x1) / (x2-x1) 
+=>  (y-f(a)) / (f(b)-f(a)) = (x-a) / (b-a)
+For(x0, 0) *//if this the root//*
+    =>  (0-f(a)) / (f(b)-f(a)) = (x0-a) / (b-a)
+    =>  (x0-a) (f(b)-f(a)) = -f(a) (b-a)
+    =>  (x0-a) (f(b)-f(a)) = af(a)-bf(a)
+    =>  x0 = a+ (af(a)-bf(a)) / (f(b)-f(a))
+    =>  x0 = (af(b)-af(a)+af(a)-bf(a)) / (f(b)-f(a))
+    =>  x0 = (af(b)-bf(a)) / (f(b)-f(a))
+```
+
+</details>
+
+So, first approximate, x0 = (af(b)-bf(a)) / (f(b)-f(a))
+
+If for x0, f(x0) equals to 0, we get desired root.
+
+Else follow bisetion approach.
+
+1. f(x0) * f(b) < 0
+2. f(x0) * f(a) < 0
+
+Need to select the correct one.
+
+<details>
+<summary><b>Find a real root of the equation: x^3 - 2x^2 - 4 = 0; a=2, b=3</b></summary>
+
+```
+f(a) = -4
+f(b) = 5
+
+1st approximate, x0 = (af(b)-bf(a)) / (f(b)-f(a)) = 2.4444
+f(x0) = -1.34430727
+
+Since, f(x0) * f(b) < 0
+2nd approximate, x1 = (x0f(b) - bf(x0)) / (f(b) - f(x0)) = 2.562162102
+f(x1) = -0.309588138
+
+3rd approximation, x2 = (x1f(b) - bf(x1)) / (f(b) - f(x1)) = 2.587691337
+f(x2) = -0.064732741
+......
+..... Need to write all the steps in exam! Calculating via calculator
+
+12th approximationm x11 = (x10*f(b) - b*f(x10)) / (f(b) - f(x10)) = 2.594313012
+```
+
+</details>
+
+**🎈Newton Raphson Method**
+
+Starts with approximate value in order to find a value as close as root.
+
+x1 = x0 + h *h is very small, tends to zero, can be pos or neg*
+
+f(x1) = f(x0+h)
+
+<details>
+<summary><b>Expansion by Taylor's series:</b></summary> 
+
+```
+    f(x0) + h f`(x0) + h^2/2! f``(x0) + .... = 0
+=>  f(x0) + hf`(x0) = 0 *Neglecting vlaues of higher derivatives, as they are very small*
+=>  h = - (f(x0) / f`(x0)); f(x0) != 0 *if 0, then already got the soln*
+```
+
+</details>
+
+So, 1st approximation, x1 = x0 - f(x0) / f`(x0)
+
+Xn+1 = Xn - f(Xn) / f`(Xn); n = 0,1,2,3.....
+
+*H.W. Geomteric Expansion; Derivative, slope related*
+
+<details>
+<summary><b>x^3-2x^2-4; a=2, b=3</b></summary>
+
+```
+X0 = 2.5 //using previous root finding methods.. Bisection: (a+b)/2 or from false position method
+
+X1 = X0 - f(X0)/f`(X0) = 2.6
+
+x2 = x1 - f(x1)/f`(x1) = 2.594331984
+....
+...
+
+x5 = 2.594313016
+```
+
+</details>
+
+*In Bisection method, approximate root swing both ways. But in False Position & Newton-Raphson method, in first approximation, we know in which side root is. less iteration.*
+
+</details>
+
+<details>
+<summary><h2>Lecture-05: </h2></summary>
+
+</details>
