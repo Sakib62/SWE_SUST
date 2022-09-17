@@ -1,4 +1,9 @@
-# 2nd_Year_2nd_Semester
-Notebook full of resources and class lectures.
+<h2 align="center">بسم الله الرحمن الرحيم</h2>
 
-[Drive Link](https://drive.google.com/drive/u/0/folders/1zlNVRmu-rJEeqfHE1LTo2rT0xnGzRch6 "Resource")
+### Wa Qul Rabbi Zidni Ilman - وَقُل رَّبِّ زِدْنِي عِلْمًا [surah Ta-Ha; 20:114](https://quran.com/20/114) "My Lord, increase me in knowledge"
+
+<br><br>
+<h2 align='left'>UniNotes</h2>
+
+*Notebook full of resources and class lectures.*
+
