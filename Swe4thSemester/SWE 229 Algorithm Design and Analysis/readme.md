@@ -36,3 +36,10 @@
 
 1. Shortest Path 
 2. Floyd Warshall
+
+## Lecture-07: 18th September, 2022
+
+1. Bellman Ford
+2. Chinese Remainder Theorem
+
+## Lecture-08: 
