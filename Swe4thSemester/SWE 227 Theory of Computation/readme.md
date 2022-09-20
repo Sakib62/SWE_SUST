@@ -121,6 +121,6 @@ I.S: summaiton of i^2(i from 0 to n+1) =
 </details>
 
 <details>
-<summary><h2>Lecture-03: </summary>
+<summary><h2>Lecture-03: 19th September, 2022</summary>
 
 </details>
