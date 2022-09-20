@@ -13,35 +13,39 @@
 <details>
 <summary><h2>Lecture-01: 29th August, 2022</h2></summary>
 
-Exact solution cannot always be extracted. We need to be as precise as we can.
-
+Exact solution cannot always be extracted. We need to be as precise as we can.<br>
 Numerical analysis deals with approximate aolution. How much error(threshold value) will be accepted?
 
 **Why use Numerical Methods?**
-- to solve problems that cannot be solved exactly
-- to solve problems that are intractable
+>- to solve problems that cannot be solved exactly
+>- to solve problems that are intractable
 
 **How to solve an engineering problem?**<br>
-Problem Description->Mathematical Model->Solution of Mathematical model->Using the solution
+>Problem Description->Mathematical Model->Solution of Mathematical model->Using the solution
 
-*(~Need to follow this for Research/Journal~)*
+**Mathematical Model:** 
+>Converting the problem into mathematics so that computer can help solve this problem.<br>
 
-**Mathematical Model:** Converting the problem into mathematics so that computer can help solve this problem.
+**Using the solution:** 
+>Compare with existing solutions. 
 
-**Using the solution:** Compare with existing solutions. 
-
-*(~My note: Need to revise following course-> Calculus, Linear Algebra, Statistics~)*
+*My note: Need to revise following courses-> Calculus, Linear Algebra, Statistics*
 
 </details>
 
 <details>
 <summary><h2>Lecture-02: 31th August, 2022</h2></summary>
 
-**Why measure errors?**
+<details>
+<summary><b>Why measure errors?</b></summary>
+
 - to determine the accuracy of numerical results
 - to develop stopping criteria for iterative algorithm
+</details>
 
-**Error**
+<details>
+<summary><b>Error</b></summary>
+
 - True error
 - Relative true error
 - Approximate error
@@ -49,7 +53,11 @@ Problem Description->Mathematical Model->Solution of Mathematical model->Using t
 - Absolute relative approximate error (Used as a stopping criteria)
     - If |∈a|<=∈s where ∈s is a pre-specified tolerance, then no further iterations are necessary and the process is stopped.
 
-**Mathematical Procedure**
+</details>
+
+<details>
+<summary><b>Mathematical Procedure</b></summary>
+
 - Nonlinear Equations
 - Differentiation
 - Simultaneous Linear Equations
@@ -58,49 +66,60 @@ Problem Description->Mathematical Model->Solution of Mathematical model->Using t
     - Regression
 - Integration
 - Ordinary Differential Equations
+</details>
 
-**Advanced Mathematical Procedure**
+<details>
+<summary><b>Advanced Mathematical Procedure</b></summary>
+
 - Partial Differential Equations
 - Optimization
 - Fast Fourier Transforms
+</details>
 
-*Software that can be used:*
+<details>
+<summary><i>Software that can be used:</i></summary>
+
 - Matlab
 - Octave(free, light)
 - Mathcad
 - Maple
 - Mathematica
+</details>
 
 </details>
 
 <details>
 <summary><h2>Lecture-03: 5th September, 2022</h2></summary>
 
-Through Numerical Analysis
-- we find an approximate value
-- minimize error
-- theoretically stop iteration after fulfiling some criteria
+<details><summary><b>Through Numerical Analysis, we can</b></summary>
 
-**Root Finding Methods**
+>- find an approximate value
+>- minimize error
+>- theoretically stop iteration after fulfiling some criteria
+</details>
 
+```
 f(x) = x^3 - 6x^2 + 11x - 6 = 0
-
-f(1) = 0, f(2) = 0, f(3) = 0 (~Points where roots are found, are Zero Funciton~)
-
+f(1) = 0, f(2) = 0, f(3) = 0 //Points where roots are found, are Zero Funciton
 We do not need numerical analysis here because we have found the exact solutions.
+```
 
-*Some root finding methods are:*
+<details><summary><b>Root Finding Methods</b></summary>
+
 - Bisetion Method
 - Method of False Position
 - Newton Raphson's Method
 - Fixed Point Iteration Method
+</details>
 
-(~Need to learn proof of these methods~)<br>
-(~Math using calculator. Solution size is large. Step By Step by following book. If some digits after decimal point matches in consecutive iteration, terminate.~)
+>Review proof of these methods. Math using calculator. Solution size is large. Step By Step following book.<br>
+>If some digits after decimal point matches in consecutive iteration, terminate.
 
-**🎈Bisection Method**
+<details><summary><b>Bisection Method</b></summary>
 
-If a function ***f(x)*** is continuous between *a* and *b* and ***f(a).f(b) < 0*** (or ***f(a)*** and ***f(b)*** are of opposite sign), then there exist ***at least one root*** between *a* and *b*.
+<br>
+
+>If a function ***f(x)*** is continuous between *a* and *b* and ***f(a).f(b) < 0*** (or ***f(a)*** and ***f(b)*** are of opposite sign), then there exist ***at least one root*** between *a* and *b*.
 
 We can find only one root of ***f(x)*** within the interval ***[a, b]***.
 
@@ -111,6 +130,7 @@ Find the root of the following functions using bisection method:
 1. ***f(x) = x^3 - 2x^2 - 4 = 0; a = 2, b = 3***
 2. ***f(x) = x^3 + x^2 - 1 = 0; a = 0, b = 1***
 3. ***f(x) = x^2 + sin(x) - 1 = 0; a = null, b = null***
+</details>
 
 </details>
 
@@ -220,6 +240,6 @@ x5 = 2.594313016
 </details>
 
 <details>
-<summary><h2>Lecture-05: </h2></summary>
+<summary><h2>Lecture-05: 19th September</h2></summary>
 
 </details>
