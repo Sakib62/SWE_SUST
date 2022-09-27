@@ -1,8 +1,7 @@
 <h1 align="center">Theory of Computation</h1>
 <h3 align="center"> <a href="https://drive.google.com/drive/u/0/folders/1xrvCjgRVIXaYLJ7Sjc6L1S_gI-sp-l_c" title="Drive Link of TOC"><ins>Drive Link</ins></a></h3>
 
-<details>
-<summary> <h2>Book - Hopcroft</h2> </summary>
+<details><summary><h2>Book - Hopcroft</h2></summary>
 
 **Chapter**
   1. Automata: The Methods and the Madness
@@ -22,11 +21,9 @@
 - Term Test
 - Class Performance
 - Attendance
-
 </details>
 
-<details>
-<summary> <h2>Lecture-01: 22nd August, 2022</h2> </summary>
+<details><summary><h2>Lecture-01: 22nd August, 2022</h2> </summary>
 
 1. What is Automata?
 2. Deductive Proof
@@ -35,8 +32,7 @@
 
 </details>
 
-<details>
-<summary><h2>Lecture-02: 12th September, 2022</h2></summary>
+<details><summary><h2>Lecture-02: 12th September, 2022</h2></summary>
 
 **Proof about Sets**
 
@@ -120,7 +116,10 @@ I.S: summaiton of i^2(i from 0 to n+1) =
 
 </details>
 
-<details>
-<summary><h2>Lecture-03: 19th September, 2022</summary>
+<details><summary><h2>Lecture-03: 19th September, 2022</summary>
+
+</details>
+
+<details><summary><h2>Lecture-04: 26th September, 2022</summary>
 
 </details>
