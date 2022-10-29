@@ -1,5 +1,16 @@
 <h1 align="center">Android App Project with Java/Kotlin</h1>
 
+<h2>Resource:</h2>
+
+https://static.studytonight.com/android/images/introduction-to-gradle.png
+
+http://developers.android.com/
+
+https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67
+
+https://vickysteeves.gitlab.io/collaborating-with-git/collaborating-with-git.html
+
+
 <details><summary><h2>Lecture-01: 25th August, 2022</h2></summary>
 
 Android App with Java or Kotlin.<br>

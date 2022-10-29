@@ -1,6 +1,15 @@
 <h1 align="center">Theory of Computation</h1>
 <h3 align="center"> <a href="https://drive.google.com/drive/u/0/folders/1xrvCjgRVIXaYLJ7Sjc6L1S_gI-sp-l_c" title="Drive Link of TOC"><ins>Drive Link</ins></a></h3>
 
+
+<h2>Resource:</h2>
+
+[Lydia](https://www.youtube.com/watch?v=SV57Yv8BXBc&list=PLhqug0UEsC-IDomfNsn8e3neoy34o8oye)
+
+[Neso Academy](https://www.youtube.com/watch?v=58N2N7zJGrQ&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
+
+[Anisul Islam](https://www.youtube.com/watch?v=O_FWltVBwQM&list=PLgH5QX0i9K3qw5pu16QgnKNj91Rnjoyd0)
+
 <details><summary><h2>Book - Hopcroft</h2></summary>
 
 **Chapter**
@@ -28,7 +37,7 @@
 1. What is Automata?
 2. Deductive Proof
     - Prove that if x >= 4 then 2^x >= x^2
-    - Prove that if x is the sum of squares of four positive integer numbers then 2^x = x^2
+    - Prove that if x is the sum of squares of four positive integer numbers then 2^x >= x^2
 
 </details>
 
@@ -37,12 +46,12 @@
 **Proof about Sets**
 
 **Proof by contradiction**
-- Whether a number is irrational or not?
+<br>Whether a number is irrational or not?
 - Initially assume, *If H then C*.
-    - Then work with *If not H then C.* If this is not true, then initial assumption is true.
+<br>Then work with *If not H then C.* <br>If this is not true, then initial assumption is true.
 
 **Proof by counter example**
-- All odd numbers are prime (Not all)
+- All odd numbers are prime
 - <details> <summary><b>Prove: There is no pair of integer a and b such that a mod b = b mod a (a!=b)</b></summary>
      
      ```
@@ -75,37 +84,39 @@ First a basis, then inductive steps (by incrementing basis)
 
 For basis: x = 4
 
-I.S: 2^(x+1) >= (x+1)*(x+1)<br>
-    - In inductive step: If H then C where H is 2^x >= x * x and C is 2^(x+1) >= (x+1) * (x+1)<br>
+Inductive Step: 2^(x+1) >= (x+1)*(x+1)<br><br>
+In inductive step, If H then C where H is 2^x >= x * x and C is 2^(x+1) >= (x+1) * (x+1)<br>
 We assume given statement is true.
 
 ```
 => 2^x . 2 >= (x+1)^2
-=> x^2 . 2 >= (x+1)^2
+=> x^2 . 2 >= (x+1)^2 [Given, 2^x >= x^2]
 => 2. x^2 >= x^2 + 2x + 1
 => x^2 >= 2x + 1
 => x >= 2 + 1/x
 ```
 
-If x==4, `4 >= 2 + 1/4 => 4 >= 2.25`
+If x=4, 
+    `4 >= 2 + 1/4`<br>
+=>  `4 >= 2.25`
 
-If x > 4, 1/x gets smaller<br>
+For x > 4, 1/x gets smaller<br>
 So, L.H.S is always greater than R.H.S
 
 **So, hypothesis holds!**
 <br>
 </details>
         
-<details><summary><b>For n >= 0, summation of i^2(i from 0 to n) = n * (n+1) * (2n+1) / 6</b></summary>
+<details><summary><b>For n >= 0, summation of i^2(i from 1 to n) = n * (n+1) * (2n+1) / 6</b></summary>
 
 Basis Step: n = 0
 
-I.S: summaiton of i^2(i from 0 to n+1) = 
+Inductive Step: summaiton of i^2(i from 1 to n+1) = 
 
 ```
 (n+1) *  (n+2) * (2n+3) / 6 = (2n^3+9n^2+13n+6)/6
 
-=> summation of i^2 from 0 to n + (n+1)^2 = (2n^3+9n^2+13n+6)/6
+=> summation of i^2 from 1 to n + (n+1)^2 = (2n^3+9n^2+13n+6)/6
 
 =>  n * (n+1) * (2n+1) / 6 + (n+1)^2 = (2n^3+9n^2+13n+6)/6
 ```
@@ -146,7 +157,7 @@ It is case sensitive.<br>To search specific string in another string.
 </details>
 <details><summary><b>?</b></summary>
 
-> 0 or 1 instance of previous character.<br>Colou?r -> Colour or Color both ok.<br>To check ? -> \?? (Backword slash as a escape character, Second ? checks whether first ? is present.)<br>
+> 0 or 1 instance of previous character.<br>Colou?r -> Colour or Color both ok.<br>To check ? -> \\?? (Backword slash as a escape character, Second ? checks whether first ? is present.)<br>
 \ \ \ ? ? -> Either \ or \? (As ? may present 0 or 1 time.)
 <br>\ \ \ ? ? ? -> Invalid.
 <br> [^ \ \ \ ? ?] -> ? doesn't work in disjunction. Individual character is chekced. 
@@ -204,6 +215,6 @@ But, /\bthe\b/ will only match the.
 
 </details>
 
-<details><summary><h2>Lecture-06: xth October, 2022</summary>
+<details><summary><h2>Lecture-06: 24th October, 2022</summary>
 
 </details>
