@@ -218,3 +218,77 @@ But, /\bthe\b/ will only match the.
 <details><summary><h2>Lecture-06: 24th October, 2022</summary>
 
 </details>
+
+<details><summary><h2>Lecture-07: 31th October, 2022</h2></summary>
+
+**Context Free Languages**
+
+**Grammer**
+
+V = set of Non-Terminal Symbol
+
+T = set of Terminal Symbol
+
+S = Start Symbol
+
+P = Production Rule (kinda like transition function in automata)
+
+G = ({S, A, B}, {a, b}, S, {S->AB, A->a, B->b})
+
+where: 
+- {S, A, B} is V
+- {a, b} is T
+- S is S
+- {S->AB, A->a, B->b} is P
+
+........
+
+S-> AB
+A-> a|aA
+B-> b|phi
+
+A gives a or aA, B gives b or nothing.
+
+So, Non-Terminal can give Terminal & Non-Terminal both.
+
+Now, G = ({S, A, B}, {a, b}, S, {S->AB, A->a|aA, B->b|phi})
+
+..................................
+
+FSM express Regular Language
+
+PushDown Automata express CFG (Context Free Grammer)
+
+**Chomskey Normal Form**
+
+A -> a
+
+A -> BC
+
+*So, non-terminal to terminal & non-terminal to non-terminal.*
+
+
+it can't be more than 2 such as **A -> BCD**
+
+Here:
+- A -> XD
+- X -> BC
+
+**Convert CFG to CNF**
+
+1. If start symbol S occurs on some right side, create a new symbol S' and production S -> S'
+
+2. Remove Null Productions
+
+3. Remove Unit Productions
+
+4. Replace each Productions<br>
+A->B1....Bn where n>2 with A->B1c, C->B2....Bn and repeat until n<=2
+
+5. If A->aB (NT -> T + NT)<br>
+A->XB (NT -> NT + NT)<br>
+X->a (NT -> T)
+
+</details>
+
+<h2>Term Test -01: 1st November, 2022</h2>

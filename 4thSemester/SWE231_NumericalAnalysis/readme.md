@@ -243,3 +243,7 @@ x5 = 2.594313016
 <summary><h2>Lecture-05: 19th September</h2></summary>
 
 </details>
+
+<h2>Lecture-06: 17th October</h2>
+
+<h2>Lecture-07: 24th October</h2>
