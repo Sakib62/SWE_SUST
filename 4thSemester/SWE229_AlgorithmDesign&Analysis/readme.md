@@ -155,3 +155,8 @@ Directed Edges with weight:<br>
 </details>
 
 <h2>Lecture-13: 30th October, 2022</h2>
+
+ALgo, Complexity Analysis
+
+1. Merge Sort 
+2. Quick Sort
