@@ -242,8 +242,26 @@ x5 = 2.594313016
 <details>
 <summary><h2>Lecture-05: 19th September</h2></summary>
 
+Interpolation(forward/backword)
+
+Lagrange's interpolation formula
+
 </details>
 
 <h2>Lecture-06: 17th October</h2>
 
+ND/NI
+
 <h2>Lecture-07: 24th October</h2>
+
+ODE/SLE
+
+<b>Assignment Deadline: 8th November, 2022</b>
+
+<b>Term Test 1: 9th November, 2022</b>
+
+Root Finding Method
+
+<b>Term Test 2: 16th November, 2022</b>
+
+ODE/SLE
