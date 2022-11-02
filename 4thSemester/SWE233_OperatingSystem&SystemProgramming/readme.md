@@ -109,79 +109,95 @@ by Abraham Silberschatz, Peter Baer Galvin, Greg Gagne
 
 <details><summary><h2>Lecture-01: 11th October, 2022</h2></summary>
 
-Instruction for system.
+<details><summary><b>Program</b></summary>
 
-Program
 - Data: data management
 - Code: data processing
 
-Resource - Memory, Program<br>
-Memory - Active, Passive.
+<blockquote>
+Program is in disk. Need reference of it.<br>
+Programs becomes slow if IO instructions are more.
 
-Safety
+Resource - Memory, Program<br>
+Memory - Active, Passive.<br>
+Input depends on user, output depends on system.
+</blockquote>
+</details>
+
+<details><summary><b>Safety</b></summary>
+
 - Overall System
 - Individual (Program level)
+</details>
 
-Input depends on user, output depends on system.<br>
-Programs becom slow if IO instructions are more.<br>
+<details><summary><b>File Size</b></summary>
 
-While saving file, size = content + basic properties.
+- File size = content + basic properties.
+- Txt file -> docx file, size ↑ (metadata of each character - font, color etc.)
+- Each file has minimum size even without content.
+</details>
 
-If txt file is converted to docx file, size increases even more, as each character has font, color etc metadata.
+<details><summary><b>Process</b></summary>
 
-In case of process also, properties of process(state, register) needs to be preserved.
+<blockquote>
+Did process quit wiliingly or forcefully interrupted?<br>
+Interrupt when process with more priority comes, or in Round Robin when time slice is over.
 
-Did process quit wiliingly or forcefully interrupted?
-
-Interrupt when process with more property comes, or in Round Robin when time slice is over.
-
-Program is in disk. Need reference of it.
+Properties of process(state, register) needs to be preserved.<br>
 Context switching needs time.
+</blockquote>
+</details>
 
-Each file has minimum size even without content.
-
-To mitigate CPU-Memory gap: Cache management - Cache Organize for faster access.
+Cache management
+- To mitigate CPU-Memory gap:
+- For faster access.
 
 Memory management is everything.
 </details>
 
 <details><summary><h2>Lecture-02: 18th October, 2022</h2></summary>
 
-<b>Process Switching</b>
+<details><summary><b>Process Switching</b></summary>
 
+<blockquote>
 Housekeeping Task done by OS (Overhead for System)<br>
 The more task & resource used, the more time to switch process.
 
-Cpu is working, though from user perspective, it seems idle.
+Cpu is working, though from user perspective, it seems idle.<br><br>
+Background: System(OS)<br>
+Utility(anitvirus) & application software are background for user, but foreground for system.
+</blockquote>
+</details>
 
-Background - System(OS)
+<details><summary><b>Throughput</b></summary>
 
-Utility - Antivirus<br>
-Application Software, garbage collector
-
-These are background for me, but foreground for system.
-
-Not all job are same, neither their purpose.
-
+<blockquote>
+Not all job are same, neither their purpose.<br><br>
 If one file of 20 mb is sent 5 times, total sent 100mb.<br>
 But Throughput is 20mb - the amount done.
-<br>Throughput is efficiency. If output increae, so does throughput.
+<br>Throughput is efficiency. If output increase, so does throughput.
+</blockquote>
+</details>
 
-<b>ToDo: Ctrl + Alt + Del</b>
+<details><summary><b>Assigning Process</b></summary>
 
-Scheduler maintains process to be assigned to CPU
-<br>CPU needs to remain busy. So, push process in ready queue.
+<blockquote>
+CPU needs to remain busy. So, push process in ready queue.<br>
+Scheduler maintains process that will be assigned to CPU.
 
 <b>Long Term Scheduler</b> assign process.
 
+Though storage is increasing, complexity of process also increases.<br>
+For that, MidTerm Scheduler.
+</blockquote>
+</details>
+
 <b>Degree of MultiProgramming</b>
 
-Though storage is increasing, complexity of process also increases.
+> Batch file - Job File<br>
+> Exe File - Program File
 
-For that, MidTerm Scheduler.
-
-Batch file - Job File
-exe File - Program File
+<b>Try: Ctrl + Alt + Del</b>
 
 </details>
 
@@ -191,32 +207,33 @@ Online class
 
 <details><summary><h2>Lecture-04: 25th October, 2022</h2></summary>
 
+<details><summary><b>Process Dependency</b></summary>
+
 <blockquote>
-Process may be dependent or independent. If dependent, need to share data.
-<br>If writing is not complete, giving read mode can cause inconsistenct data to be read.
-
-Code sharing easy. Data sharing complicated.
+Process may be dependent or independent. If dependent, need to share data.<br>
+Code sharing easy, data sharing complicated.<br>
+<br>If writing is not complete, giving read mode access can cause inconsistenct data to be read.<br>
+<br>
+If write mode access is given to multiple process, need to keep track and combine them. Complexity increases.
 </blockquote>
+</details>
 
-<details><summary><b>Corporating Process</b></summary>
+<details><summary><b>Co-operating Process</b></summary>
 
-- Information sharing - Global Var.
+- Information sharing - Global Variable.
 - Computation Speed up - Merge Sort.
 - Modularity - define in sub task (part of program).
-- Convenience - Data one, sharing with all.
+- Convenience - Single data, sharing with all.
 </details>
-<br>
-If write mode access is given to multiple process, need to keep track and combine them, increase in complexity.
 
-<br>
 <details><summary><b>Producer - Consumer [Handshaking]</b></summary>
 
 - Use Buffer
 - Bounded: Array
-- Unbounded: List Types whose memory are dynamically allocated
+- Unbounded: List, memory that are dynamically allocated
+
+> All output devices are Consumer, all input devices are Producer.
 </details>
-<br>
-All output device Consumer, all input are producer.
 
 <b>Interprocess Communication</b>
 - Parameter Passing
@@ -229,12 +246,16 @@ All output device Consumer, all input are producer.
 
 <blockquote>
 Each process has process ID. But it is local to machine.
-<br>My Pc is destination. All different tabs are process.
+<br>User Pc is destination. All different tabs are process.
 
 Via IP, network is detected. IPV4: 32bit, IPV6: 128bit
 <br>Then service based Id. Now nearly all program are network oriented.
 </blockquote>
 </details>
+
+<b>Web server:</b>
+> Makes environment/platform ready.<br>
+> Server needs to host service that it wishes to provide.
 
 <details><summary><b>Browsing</b></summary>
 
@@ -244,16 +265,12 @@ Browser provides internet service.
 
 Https, Ftp are different service. Browser provides them.
 
-File if not fully downloaded, cannot be viewed.
-<br>But, web page can be viewed - the amount that has been loaded.
+If file is not fully downloaded, it cannot be viewed.
+<br>But, web page can be viewed - the portion that has been loaded.
 
-WPS app provides browsing capability.
+`WPS` app provides browsing capability.
 </blockquote>
 </details>
-<br>
-
-<b>Web server:</b> make environment/platform ready. 
-Server needs to host service that it wishes to provide.
 
 <details><summary><b>Socket = IP + Port Number </b></summary>
 
@@ -261,7 +278,7 @@ IP ~ digit (low level), DNS ~ Name (high level)
 
 - MAC (easy for machine)
 - IP
-- DNS (easy for me)
+- DNS (easy for user)
 </details>
 
 </details>
@@ -295,7 +312,7 @@ Aging:
 - If the only process in a queue needs 12 unit time & slot for each process is 2 unit, the process will be assigned 6 times. Though it is ok if task switching is negligible.
 </details>
 
-<br><br>
+<br>
 All methods has advantage & disadvantages
 
 First Come First Service
