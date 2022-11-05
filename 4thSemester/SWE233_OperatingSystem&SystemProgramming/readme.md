@@ -16,7 +16,7 @@
 by Abraham Silberschatz, Peter Baer Galvin, Greg Gagne
 <br><br>
 
-<h2>**<u>Previous Lecture</u>**</h2>
+<h2 align="center"><u><b>Previous Lecture</b></u></h2>
 
 <details><summary><h2>Lecture-01: 22nd August, 2022</h2></summary>
 
@@ -102,10 +102,7 @@ by Abraham Silberschatz, Peter Baer Galvin, Greg Gagne
 
 </details>
 
-
-................................................................................................................................
-
-<h2>**<u>New Lecture</u>**</h2>
+<h2 align="center"><b><u>Updated Lecture</u></b></h2>
 
 <details><summary><h2>Lecture-01: 11th October, 2022</h2></summary>
 

@@ -292,3 +292,5 @@ X->a (NT -> T)
 </details>
 
 <h2>Term Test -01: 1st November, 2022</h2>
+
+<img src="assets\TT1.jpeg" width="100%" height="50%">
