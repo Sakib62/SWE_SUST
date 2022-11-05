@@ -94,7 +94,74 @@ https://cp-algorithms.com/algebra/extended-euclid-algorithm.html
 
 <details><summary><h2>Lecture-10: 16th October, 2022</h2></summary>
 
-1. Counting Sort
+<h3><b>Counting Sort</b></h3>
+
+1. Not comparison based.<br>Stable Sorting Algorithm -> Important if number is associated with something.<br><br>
+Stability of sorting algorithm simply means that<br> the relative ordering of elements with same keys will remain same before & after the sorting.<br><br>
+1. Particular Range
+2. Initialize count array for elements
+3. Frequency table (index sorted, so no comparison)
+4. Cumulative sum //*Can find sorted array from this part too.*
+5. From reverse to ensure stable sort
+    ```cpp
+    for(int i = n-1; i >= 0; i--) {
+        output[count[arr[i]] - 1] = arr[i]
+        count[arr[i]]--; //If same number repeats, order will be same
+    }
+    ```
+6. Complexity: O(n+k), k is range for cumulative sum
+
+    <details><summary>Code:</summary>
+
+    ```cpp
+    //Bismillahir Rahman-ir Rahim
+    #include <bits/stdc++.h>
+    using namespace std;
+
+    void countSort(int *a, int n) {
+        int mx = *max_element(a, a+n); //to determine range of freq array
+        int freq[mx + 1] = {0}, ans[n];
+
+        for(int j = 0; j < n; j++) { //frequency array
+            freq[a[j]]++;
+        }
+        for(int j = 1; j < mx + 1; j++) { //prefix sum
+            freq[j]+=freq[j-1]; //can complete sorting in this point though won't be stable
+        }
+        //from last to make stable sorting
+        for(int i = n - 1; i >= 0; i--) {
+            ans[freq[a[i]] - 1] = a[i];//-1 to fit in 0 based indexing. a[i] is freq[a[i]]th element if sorted
+            freq[a[i]]--;//already placed this one, hence decrement
+        }
+        //copy into original array
+        for(int i = 0; i < n; i++) {
+            a[i] = ans[i];
+        }
+    }
+
+    void solve() {
+        int n;
+        cin >> n;
+        int a[n];
+        for(int i = 0; i < n; i++) {
+            cin >> a[i];
+        }
+        countSort(a, n);
+        for(int i = 0; i < n; i++) {
+            cout << a[i] << " ";
+        }
+        cout << "\n";
+    }
+
+    int main() {
+        ios_base::sync_with_stdio(false); cin.tie(0); int testCase = 1;
+        //cin >> testCase;
+        while(testCase--) {
+            solve();
+        }
+    }
+    ```
+    </details>
 </details>
 
 <details><summary><h2>Lecture-11: 18th October, 2022</h2></summary>
@@ -123,7 +190,7 @@ https://cp-algorithms.com/algebra/extended-euclid-algorithm.html
 - Bellman Ford Algorithm
 - Floyd Warshall Algorithm
 
-<img src="assets\TT1.jpg" width="100%" height="40%">
+<img src="assets\TT1.jpg" width="60%" height="10%">
 
 </details>
 
