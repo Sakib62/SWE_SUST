@@ -198,9 +198,109 @@ For that, MidTerm Scheduler.
 
 </details>
 
-<h2>Lecture-03: 20th October, 2022</h2>
+<details><summary><h2>Lecture-03: 20th October, 2022</h2></summary>
 
-Online class
+***Online class***
+
+**Representation of Process Scheduling**
+
+<details><summary><b>Context Switch from Process to Process</b></summary>
+
+* Either task done
+* Alotted time slot is over
+* Interrupted due to high priority process
+
+>If context switch decreases, throughput increases.
+</details>
+
+
+**Multitasking** & **MultiProgramming** in chapter 1
+
+<details><summary><b>Operations on Processes</b></summary>
+
+ * Process Creation
+ * Process Termination
+
+>Process creation request by user or a process itself. Created by OS.<br>
+>Each process is identified by Process ID.
+</details>
+
+<details><summary><b>Resource</b></summary>
+
+>Resource may be logical (files) or physical (hardware)<br>
+>Each process needs at least one resource -> CPU.
+><br>Resource is limited. So it may be shared.
+
+>Parent & Child may share resources.
+><br>File reading may be done by many, but writing is complicated.
+
+</details>
+
+<details><summary><b>Dependency</b></summary>
+
+>Same browser, multiple tab. No dependency
+><br>Tab in same or different window. Multiple process.
+
+>If dependency, parent waits until child terminates. Orderly termination.<br>
+>Github Desktop(parent) authentication via Chrome(child). After that no dependency. Dependency for short time.
+<br>
+
+</details>
+
+<details><summary><b>Process Terminaiton</b></summary>
+
+>exit() -> terminate program.<br>
+>return -> terminate the current block/module.
+
+>**Abnormal Termination**<br>
+>OS is parent. If any child process exceed allocated resources,<br> no longer required, parent terminated, infinity running etc. abnomal behaviour then abort().
+
+>**Cascading Termination**<br>
+>All children, grandchildren etc. are terminated.<br>
+>ZOMBIE -> no parent<br>
+>ORPHAN -> parent terminated
+</details>
+
+<details><summary><b>Multiprocess Architecture - Chrome Browser</b></summary>
+
+* Browser
+* Renderer (Sandbox -> a virtual environment to run program with restricted features. To test 3rd party software. `Safe mode` in Windows)
+* Plug-in
+
+>Sanbox itself is a program. It's a multiprocess architecture.
+
+>Tab -> Convenient for user, Multiple instance of a process, independently run.
+
+>Now-a-days, Editor, IDE multiprocess. In one environment, different facilities.
+</details>
+
+<details><summary><b>Interprocess Communication</b></summary>
+
+**Cooperation**
+* Orderly like function call.//dependency,, can't execute unless other part is finished.
+* Concurrently like merge sort. //can execute simultaneously.
+
+**Dependency to**
+* share info
+* speedup
+* modularity
+* convenience
+
+**Two models of IPC**
+* Shared memory
+* Message passing
+
+</details>
+
+**Kernel**<br>
+>Command prompt .. with windows.<br>
+>Editor, browser .. can be installed.<br><br>
+>OS interacts Computer System (physical, logical) with user.<br>
+>Application program like browser, antivirus can be installed.<br>
+>Defrag (disk management), Editor -- without these OS can run.<br>
+
+**Ques: Memory cell of 1000 size array is in same place or not?**
+</details>
 
 <details><summary><h2>Lecture-04: 25th October, 2022</h2></summary>
 
@@ -344,3 +444,9 @@ So these are in different queue. If in same queue, different priority.
 <b>NEXT CLASS: QUIZ on PROCESS. 20 marks</b>
 
 </details>
+
+<h2>Lecture-07: 3th November, 2022</h2>
+
+<h2>Lecture-08: 8th November, 2022</h2>
+
+**Quiz**
