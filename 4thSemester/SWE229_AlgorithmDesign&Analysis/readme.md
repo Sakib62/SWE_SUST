@@ -123,34 +123,7 @@ https://cp-algorithms.com/algebra/extended-euclid-algorithm.html
 - Bellman Ford Algorithm
 - Floyd Warshall Algorithm
 
-Question:
-
-1. State the formal definition of CRT.
-2. Prove the existence of Modular Inverse of a number A with respect to M.
-3. What do you understand by 'Path Relaxation'?
-4. Can you improvise the following code to run faster? Explain your answer with complexity analysis.<br>
-```cpp
-void SieveOfEratosthenes (int n)
-{
-    bool prime[n + 1];
-    memset(prime, true, sizeof(prime));
-
-    for (int p = 2; p * p <= n; p++) {
-        if (prime[p] == true) {
-            for (int i = p * p; i <= n; i += p) 
-                prime[i] = false;
-        }
-    }
-    for (int p = 2; p <= n; p++)
-        if (prime[p])
-            cout << p << " ";
-}
-```
-5. Write down each step for the 'Floyd-Warshall Algorithm' on the following graph. **Start from node a.**<br>
-Directed Edges with weight:<br>
-(a, g) = 7, (a, b) = 4, (a, h) = 4<br>
-(b, f) = 6, (b, g) = 8, (b, h) = 1<br>
-(g, b) = 4, (g, f) = 7
+<img src="assets\TT1.jpg" width="100%" height="40%">
 
 </details>
 
