@@ -5,17 +5,17 @@
 [DP Resource](https://bit.ly/dpseriestuf)
 
 <details><summary><h2>Syllabus</h2></summary>
-<blockquote> <p>
-Sieve - Bitwise, Segmented, Linear<br>
-Divisor - Count, Sum<br>
-Phi<br>
-Modular Inverse - with Power, with Ext. Euclid<br>
-CRT - Ext. Euclid
 
-Floyd Warshall<br>
-Bellman Ford<br>
-Heapsort - Heap<br>
-Counting Sort, Radix Sort, Bucket Sort<br>
+:white_check_mark: Sieve - Bitwise, Segmented, Linear<br>
+:white_check_mark: Divisor - Count, Sum<br>
+:white_check_mark: Phi<br>
+:white_check_mark: Modular Inverse - with Power, with Ext. euclid<br>
+:white_check_mark: CRT - Ext. Euclid
+
+:white_check_mark: Floyd Warshall<br>
+:white_check_mark: Bellman Ford<br>
+:white_check_mark: Heapsort - Heap<br>
+:white_check_mark: Counting Sort, Radix Sort, Bucket Sort<br>
 Order Statistics<br>
 Hash Table<br>
 Binary Search Tree<br>
@@ -25,14 +25,20 @@ DP - Matrix Chain Multiplication, Knapsack, CoinChange<br>
 Greedy - Task Scheduling<br>
 Max Flow - Ford Fulkerson
 
-String Matching - KMP, Rabin Karp (Hashing)<br>
+:white_check_mark: String Matching - KMP, Rabin Karp (Hashing)<br>
 Suffix Array<br>
 Strongly Connected Component
 
 FFT* (probably)
 
-Quicksort*, DSU*, MST*, Dijkstra*, DFS*, BFS* (covered in CP course)
-</p></blockquote>
+**Covered in Cp Course**<br>
+- [x] Quicksort
+- [x] DSU
+- [x] MST
+- [x] Dijkstra
+- [x] DFS 
+- [x] BFS
+
 </details>
 
 <details><summary><h2>Lecture-01: 23th August, 2022</h2></summary>
@@ -201,4 +207,34 @@ ALgo, Complexity Analysis
 1. Merge Sort 
 2. Quick Sort
 
-<h2>Lecture-14: 6th November, 2022</h2>
+<details><summary><h2>Lecture-14: 8th November, 2022</h2></summary>
+
+**String Hashing**<br>
+- h(k1) = h(k2) [k1!=k2]<br>
+- if this condition is violated, collision occurs.
+- Goal is to reduce collision probability.
+
+<details><summary><b>Ways to mitigate collision</b></summary>
+
+1. **Hashing With Chain**<br>
+    For each index, a linked list
+
+2. **Linear Probing**<br>
+    Put in immediate next empty index. Worst case of insertion is O(n).
+
+3. **Quadratic Probing**<br>
+    Put in index derived from formula. Worst case improved.
+</details>
+
+**How to retrieve?**<br>
+**Why prime is used to mod?**
+
+<details><summary><b>Load Factor (alpha)</b></summary>
+
+- At most how many value will be mapped at a index?
+- N/K -> Assuming keys are random.
+- So, O(1 + alpha)
+</details>
+</details>
+
+<h2>Lecture-15: 13th November, 2022</h2>

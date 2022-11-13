@@ -127,10 +127,12 @@ Inductive Step: summaiton of i^2(i from 1 to n+1) =
 
 <details><summary><h2>Lecture-03: 19th September, 2022</summary>
 
+DFA
 </details>
 
 <details><summary><h2>Lecture-04: 26th September, 2022</summary>
 
+NFA to DFA conversion
 </details>
 
 <details><summary><h2>Lecture-05: 17th October, 2022</summary>
@@ -217,64 +219,60 @@ But, /\bthe\b/ will only match the.
 
 <details><summary><h2>Lecture-06: 24th October, 2022</summary>
 
+Regular Language<br>Pumping Lemma
 </details>
 
 <details><summary><h2>Lecture-07: 31th October, 2022</h2></summary>
 
 **Context Free Languages**
 
-**Grammer**
+<details><summary><b>Grammar</b></summary>
 
-V = set of Non-Terminal Symbol
+- V = set of Non-Terminal Symbol
+- T = set of Terminal Symbol
+- S = Start Symbol
+- P = Production Rule (kinda like transition function in automata)
 
-T = set of Terminal Symbol
-
-S = Start Symbol
-
-P = Production Rule (kinda like transition function in automata)
-
-G = ({S, A, B}, {a, b}, S, {S->AB, A->a, B->b})
+- G = ({S, A, B}, {a, b}, S, {S->AB, A->a, B->b})
 
 where: 
 - {S, A, B} is V
 - {a, b} is T
 - S is S
 - {S->AB, A->a, B->b} is P
-
 ........
 
-S-> AB
-A-> a|aA
-B-> b|phi
+**Example**
 
-A gives a or aA, B gives b or nothing.
+S-> AB<br>
+A-> a|aA<br>
+B-> b|phi<br>
 
+A gives a or aA, B gives b or nothing.<br>
 So, Non-Terminal can give Terminal & Non-Terminal both.
 
 Now, G = ({S, A, B}, {a, b}, S, {S->AB, A->a|aA, B->b|phi})
 
-..................................
+...................
+</details>
 
-FSM express Regular Language
+*FSM express Regular Language*<br>
+*PushDown Automata express CFG (Context Free Grammer)*
+<details><summary><b>Chomskey Normal Form</b></summary>
 
-PushDown Automata express CFG (Context Free Grammer)
+- A -> a
+- A -> BC
 
-**Chomskey Normal Form**
+- *So, non-terminal to terminal & non-terminal to non-terminal*
 
-A -> a
-
-A -> BC
-
-*So, non-terminal to terminal & non-terminal to non-terminal.*
-
-
-it can't be more than 2 such as **A -> BCD**
+- it can't be more than 2 such as **A -> BCD**
 
 Here:
 - A -> XD
 - X -> BC
+</details>
 
-**Convert CFG to CNF**
+<details><summary><b>Convert CFG to CNF</b></summary>
 
 1. If start symbol S occurs on some right side, create a new symbol S' and production S -> S'
 
@@ -288,9 +286,16 @@ A->B1....Bn where n>2 with A->B1c, C->B2....Bn and repeat until n<=2
 5. If A->aB (NT -> T + NT)<br>
 A->XB (NT -> NT + NT)<br>
 X->a (NT -> T)
+</details>
 
 </details>
 
 <h2>Term Test -01: 1st November, 2022</h2>
 
 <img src="assets\TT1.jpeg" width="100%" height="50%">
+
+<h2>Lecture-08: 7th November, 2022</h2>
+
+Conversion of CFG to CNF with example.
+
+<h2>Lecture-09: 14th November, 2022</h2>

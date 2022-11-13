@@ -31,3 +31,11 @@ Each group is assigned a sub-module. For each sub-module, Use Case & ProcessFlow
 **Resource: 2 pdf, 1 guideline**
 
 Also discussion on Automation, Management, employee salary, attendance, database, interoperability, updating etc...
+
+<h2>Lecture-03: 8th November, 2022</h2>
+
+Management
+
+Information
+
+System
