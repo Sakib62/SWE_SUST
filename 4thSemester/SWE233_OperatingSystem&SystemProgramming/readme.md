@@ -102,7 +102,7 @@ by Abraham Silberschatz, Peter Baer Galvin, Greg Gagne
 
 </details>
 
-<h2 align="center"><b><u>Updated Lecture</u></b></h2>
+<h2 align="center"><b><u>New Lecture</u></b></h2>
 
 <details><summary><h2>Lecture-01: 11th October, 2022</h2></summary>
 
@@ -449,4 +449,4 @@ So these are in different queue. If in same queue, different priority.
 
 <h2>Lecture-08: 8th November, 2022</h2>
 
-**Quiz**
+Deadlock
