@@ -30,15 +30,13 @@ by Abraham Silberschatz, Peter Baer Galvin, Greg Gagne
 - System Call Implementation
 - Api - System Call - Os relationship
 - System Call Parameter Passing
-- <details><summary>Types of System Call</summary>
-
+- Types of System Call
     - Process Control
     - File Management
     - Device Management
     - Information Maintainance
     - Communications
     - Protection
-    </details>
 - System Programs
 - Operating System Design and Implementation
 
@@ -293,11 +291,7 @@ For that, MidTerm Scheduler.
 </details>
 
 **Kernel**<br>
->Command prompt .. with windows.<br>
->Editor, browser .. can be installed.<br><br>
->OS interacts Computer System (physical, logical) with user.<br>
->Application program like browser, antivirus can be installed.<br>
->Defrag (disk management), Editor -- without these OS can run.<br>
+
 
 **Ques: Memory cell of 1000 size array is in same place or not?**
 </details>
@@ -447,6 +441,38 @@ So these are in different queue. If in same queue, different priority.
 
 <h2>Lecture-07: 3th November, 2022</h2>
 
+- Online Class
+
 <h2>Lecture-08: 8th November, 2022</h2>
 
-Deadlock
+- TT postponed
+- Deadlock
+- 4 characteristics
+- Resource allocation graph etc. detailed discussion
+
+<h2>Term Test-1: 15th November, 2022</h2>
+
+- Process
+
+<h2>Lecture-09: 23th November, 2022</h2>
+
+- Circular Wait
+- Safe State
+- Deadlock Avoidance
+- R2 -> T1 -> R1 (R2 is allocated to T1 process, T1 is waiting for R1 process)
+- If multiple instance of resource, apply Banker Algorithm.<br><br>
+- **Task:** Resource Allocation Graph
+- **Reminder:** Ch1, Ch2
+- **Lab:** Code in Linux
+
+<h2>Lecture-10: 30th November, 2022</h2>
+
+- Online Class 10 minute
+- Deadlock Detection
+
+<h2>Lecture-11: 4th November, 2022</h2>
+
+- Deadlock chapter completed
+- Memory Management
+
+<h2>Lecture-12: 5th November, 2022</h2>
