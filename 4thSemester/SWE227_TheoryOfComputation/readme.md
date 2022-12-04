@@ -298,4 +298,6 @@ X->a (NT -> T)
 
 Conversion of CFG to CNF with example.
 
-<h2>Lecture-09: 14th November, 2022</h2>
+<h2>Lecture-09: xth December, 2022</h2>
+
+<h2>Term Test-1: 12th December, 2022</h2>

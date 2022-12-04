@@ -21,9 +21,12 @@ Hash Table<br>
 Binary Search Tree<br>
 Balance Binary Search Tree - Treap / AVL Tree
 
-DP - Matrix Chain Multiplication, Knapsack, CoinChange<br>
+:white_check_mark: DP: Top Down(Recursive), Bottom Up(Iterative), 0-1 Knapsack<br>
+:white_check_mark: Longest Common Subsequence<br>
+Matrix Chain Multiplication, CoinChange<br>
 Greedy - Task Scheduling<br>
-Max Flow - Ford Fulkerson
+
+:white_check_mark: Max Flow - Ford Fulkerson
 
 :white_check_mark: String Matching - KMP, Rabin Karp (Hashing)<br>
 Suffix Array<br>
@@ -209,10 +212,12 @@ ALgo, Complexity Analysis
 
 <details><summary><h2>Lecture-14: 8th November, 2022</h2></summary>
 
-**String Hashing**<br>
+<details><summary><b>String Hashing</b></summary>
+
 - h(k1) = h(k2) [k1!=k2]<br>
 - if this condition is violated, collision occurs.
 - Goal is to reduce collision probability.
+</details>
 
 <details><summary><b>Ways to mitigate collision</b></summary>
 
@@ -235,6 +240,48 @@ ALgo, Complexity Analysis
 - N/K -> Assuming keys are random.
 - So, O(1 + alpha)
 </details>
+
+Resource for hash table:
+
+[Programiz](https://www.programiz.com/dsa/hash-table)<br>[Hackerearth](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)
+<br>[maximal](https://datastructures.maximal.io/hash-tables/)
+<br>[medium](https://medium.com/basecs/hashing-out-hash-functions-ea5dd8beb4dd)
+
 </details>
 
 <h2>Lecture-15: 13th November, 2022</h2>
+
+Hashing proof
+
+Universal hashing function
+
+random indicator
+
+<h2>Lecture-16: 15th November, 2022</h2>
+
+Ford Fulkerson for MaxFlow
+
+<h2>Lecture-17: 22th November, 2022</h2>
+
+0-1 knapsack
+
+Top Down & Bottom Up approach
+
+Next: Coin Change, LCS, 
+
+<h2>Lecture-18: 4th December, 2022</h2>
+
+1. Length of **LCS - Longest Common Subsequence** with Top-Down(Recursive) & Bottom-Up(Iterative) Approach. 
+
+2. the subsequence itself.
+
+<h2>Term Test-2: 8th December, 2022</h2>
+
+Thursday
+
+**Syllabus**: 
+1. Sorting
+    - Stable Sort(Counting, Bucket, Radix)
+    - Heap Sort, Merge Sort, Quick Sort
+2. Ford Fulkerson
+3. DP (0-1 knapsack, LCS)
