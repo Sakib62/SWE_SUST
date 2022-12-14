@@ -1,18 +1,27 @@
+<h1 align="center">بسم الله الرحمن الرحيم</h1>
+
+**One Place to Track All Academic Activities.**
+
+This Repository contains necessary notes, question paper, resources that are needed for *B.Sc in Software Enginnering, SUST* throughout the 4 years.
+
+<hr>
+
+**Contents**
+1. ClassNote
+    - Class lectures, Exam date, Topics Covered, Assignment etc.
+2. Question
+    - Semester Final & Class Test questions.
+3. Resource
+    - Books, Blog, Video, Guideline etc.
+
+
+<!--
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-<h2 align="center">بسم الله الرحمن الرحيم</h2>
-
-### Wa Qul Rabbi Zidni Ilman - وَقُل رَّبِّ زِدْنِي عِلْمًا [surah Ta-Ha; 20:114](https://quran.com/20/114) "My Lord, increase me in knowledge"
-
-<br>
-<h2 align='left'>ClassNotes</h2>
-
-*Notebook full of resources and class lectures.*
 
 [contributors-shield]: https://img.shields.io/github/contributors/Sakib62/UniNotes.svg?style=for-the-badge
 [contributors-url]: https://github.com/Sakib62/UniNotes/graphs/contributors
@@ -26,3 +35,4 @@
 [license-url]: https://github.com/Sakib62/UniNotes/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/supersakib
+-->
