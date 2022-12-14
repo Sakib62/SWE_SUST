@@ -2,7 +2,7 @@
 
 **One Place to Track All Academic Activities.**
 
-This Repository contains necessary notes, question paper, resources that are needed for *B.Sc in Software Enginnering, SUST* throughout the 4 years.
+This Repository contains necessary notes, question papers, resources that are needed for *B.Sc in Software Engineering, SUST* throughout the 4 years.
 
 <hr>
 
@@ -12,7 +12,7 @@ This Repository contains necessary notes, question paper, resources that are nee
 2. Question
     - Semester Final & Class Test questions.
 3. Resource
-    - Books, Blog, Video, Guideline etc.
+    - Books, Blogs, Videos, Guidelines etc.
 
 
 <!--
