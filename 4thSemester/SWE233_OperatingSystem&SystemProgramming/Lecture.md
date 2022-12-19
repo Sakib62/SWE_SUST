@@ -90,7 +90,7 @@ by Abraham Silberschatz, Peter Baer Galvin, Greg Gagne
 
 <br><h2 align="center"><b><u>New Lecture</u></b></h2>
 
-<br><h2><u>Lecture-01: 11st October, 2022</u></h2>
+<br><h2><u>Lecture-01: 11th October, 2022</u></h2>
 
 <b>Program</b>
 - Data - managing data
@@ -253,7 +253,16 @@ Representation of Process Scheduling
 
 <br><h2><u>Lecture-05: 27th October, 2022</u></h2>
 
-- Online class
+Online class
+
+**Chapter 5: CPU Scheduling**
+- Basic Concepts
+- CPU Scheduler
+- Preemptive & Non-preemptive Scheduling
+- Scheduling Criteria
+- First Come, First Served (FCFS) Scheduling
+- Shortest Job First (SJF)
+- Round Robin
 
 <br><h2><u>Lecture-06: 1st November, 2022</u></h2>
 
@@ -299,12 +308,25 @@ Among some System Process - Memory Allocation, Invalid Operation, Garbage Collec
 
 Online Class
 
-- Process Scheduling
+CPU Scheduling
+
+- Multi-Level Queue
+- Multi-Level Feedback Queue
+- Multiple-Processor Scheduling
+- Real-Time CPU Scheduling
+- Priority-based Scheduling
+- Real Monotonic Scheduling
+- Linux Scheduling
+
+Deadlock
+- Characterization
+- Resource-Allocation Graph
+- Methods for handling deadlock
 
 <br><u><h2>Lecture-08: 8th November, 2022</u></h2>
 
 - Deadlock - 4 characteristics
-- Resource Allocation Graph
+- Resource Allocation Graph - cycle, instance of resources
 
 <br><u><h2>Lecture-09: 23th November, 2022</u></h2>
 
