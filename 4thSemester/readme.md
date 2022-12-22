@@ -1,6 +1,6 @@
 <div align = "center">
 
-## [Question](Question/4thSemester)
+## [Question](/Question/4thSemester)
 </div>
 
 <br>
