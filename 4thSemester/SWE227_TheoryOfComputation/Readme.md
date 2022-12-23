@@ -2,11 +2,12 @@
 
 **Youtube Playlist**
 
-[Lydia](https://www.youtube.com/playlist?list=PLhqug0UEsC-IDomfNsn8e3neoy34o8oye)
-, [Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
+[Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
+, [Lecturelia](https://www.youtube.com/playlist?list=PLncy2sD7w4YqBniaSEkOtzcZa3UNtWpMF)
 , [Anisul Islam](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qw5pu16QgnKNj91Rnjoyd0)
+, [Lydia](https://www.youtube.com/playlist?list=PLhqug0UEsC-IDomfNsn8e3neoy34o8oye)
 
-**Book** - Hopcroft
+**Book** - [Hopcroft - Introduction to Automata Theory](Books/Hopcraft-Introduction_to_Automata_Theory.pdf)
 
 <br><h2><u>Lecture-01: 22nd August, 2022</u></h2>
 
@@ -192,7 +193,7 @@ G = ({S, A, B}, {a, b}, S, {S -> AB, A -> a | aA, B -> b | phi})
 
 <br><hr><br>
 
-<b>Chomskey Normal Form</b>
+<b>Chomsky Normal Form</b>
 - A -> a (Non-Terminal to Terminal)
 - A -> BC (Non-Terminal to maximum 2 Non-Terminal)
 

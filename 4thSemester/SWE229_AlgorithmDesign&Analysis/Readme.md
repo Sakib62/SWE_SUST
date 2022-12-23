@@ -13,7 +13,7 @@
 :white_check_mark: Heapsort - Heap<br>
 :white_check_mark: Counting Sort, Radix Sort, Bucket Sort<br>
 Order Statistics<br>
-Hash Table<br>
+:white_check_mark: Hash Table<br>
 Binary Search Tree<br>
 Balance Binary Search Tree - Treap / AVL Tree
 
@@ -24,8 +24,8 @@ Greedy - Task Scheduling<br>
 
 :white_check_mark: Max Flow - Ford Fulkerson
 
-:white_check_mark: String Matching - KMP, Rabin Karp (Hashing)<br>
-Suffix Array<br>
+:white_check_mark: String Matching - KMP, Suffix Array<br>
+Rabin Karp (Hashing)<br>
 Strongly Connected Component
 
 FFT* (probably)
@@ -38,7 +38,11 @@ FFT* (probably)
 - [x] DFS 
 - [x] BFS
 
-<br><h2><u>Lecture-01: 23th August, 2022</u></h2>
+**Site:** [GeeksForGeeks](https://www.geeksforgeeks.org/), [CP Algorithms](https://cp-algorithms.com/), [Shafaet's Planet](https://www.shafaetsplanet.com/), [ForthRight48](https://forthright48.com/)
+
+**Book:** [Introduction to Algorithms](Books/Introduction_to_Algorithms_3E.pdf)
+
+<br><h2><u>Lecture-01: 23rd August, 2022</u></h2>
 
 1. Sieve of Eratosthenes
 2. Linear Sieve
@@ -52,7 +56,6 @@ FFT* (probably)
 <br><h2><u>Lecture-03: 30th August, 2022</u></h2>
 
 1. Segmented Sieve
-
 
 <br><h2><u>Lecture-04: 4th September, 2022</u></h2>
 
@@ -99,7 +102,7 @@ FFT* (probably)
 2. Pull Request, Fork, Collaborations.
 3. Sublime Merge
 
-<br><h2><u>Lecture-12: 23th October, 2022</u></h2>
+<br><h2><u>Lecture-12: 23rd October, 2022</u></h2>
 
 1. Radix Sort
 2. Bucket sort
@@ -157,7 +160,7 @@ Algorithm & Complexity Analysis
 
 1. Ford Fulkerson for MaxFlow
 
-<br><h2><u>Lecture-17: 22th November, 2022</u></h2>
+<br><h2><u>Lecture-17: 22nd November, 2022</u></h2>
 
 1. 0-1 knapsack
 2. Top Down/Recusive & Bottom Up/Iterative approach

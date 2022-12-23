@@ -2,8 +2,9 @@
 
 <br>
 
-**Book**: Management Information System by Kenneth C. Laudon, Jane P. Laudon
+**Book**: [Management Information System by Kenneth C. Laudon, Jane P. Laudon](Books/Laudon_Management_Information_Systems_13E.pdf)
 
+**Summary:** [Book Summary](Resource)
 
 <h2 align="center"><u><b>Previous Lecture</b></u></h2>
 
@@ -35,7 +36,8 @@ Chapter 1: Information System in Global Business Today
 
 - Level of Management
 - Information vs Data
-- System Approach
+- System Approach, Types
+- Organization, Organizational System
 
 <br><h2><u>Lecture-03: 15th November, 2022</u></h2>
 
