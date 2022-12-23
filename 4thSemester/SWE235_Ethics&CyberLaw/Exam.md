@@ -1,6 +1,6 @@
 <b><u>Assignment: 12th December, 2022</u></b>
 
-- Pentium Case
+- [Pentium Case](Assignment_on_Ethics_CyberLaw.pdf)
 
 <br><b><u>Term Test-1: 6th December, 2022</u></b>
 
