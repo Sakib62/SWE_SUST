@@ -2,7 +2,10 @@
 
 <br>
 
-**Book:** Numerical Methods for Engineers by Steven C. Chapra
+**Book:** [Numerical Methods for Engineers by Steven C. Chapra](Books/Numerical_Methods_for_Engineers_6E.pdf)
+
+**Playlist** [Bhagwan Singh](https://www.youtube.com/playlist?list=PLdM-WZokR4tZb3xr9l1hBdzd-7m5mgHh_)
+, [Dr. Gajendra](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLrTna7UuaVfGZYkNo0cpVC)
 
 **Site:** [MathForCollege](https://nm.mathforcollege.com)
 
@@ -23,7 +26,7 @@
 
 *My note: Need to revise following courses-> Calculus, Linear Algebra, Statistics*
 
-<br><h2><u>Lecture-02: 31th August, 2022</u></h2>
+<br><h2><u>Lecture-02: 31st August, 2022</u></h2>
 
 **Why measure Errors?**
 - to determine the accuracy of numerical results
@@ -107,6 +110,7 @@ Find the root of the following functions using bisection method:
 <br><hr><br>
 
 **Newton Raphson Method**
+
 - Starts with approximate value in order to find a value as close as root.
 
 - `x1 = x0 + h`; *h is very small, tends to zero, can be positive or negative*
@@ -127,6 +131,9 @@ Find the root of the following functions using bisection method:
 **Tasks**
 - Proof, Geometric Expansion
 - Find root using Newton Raphson Method: <b>x^3 - 2x^2 - 4 = 0 (a = 2, b = 3)</b>
+
+**Newton Raphson Method Using Calculator:** 
+[Click Here](https://www.youtube.com/watch?v=OfrHdlCgmjw)
 
 <br><h2><u>Lecture-05: 19th September, 2022</u></h2>
 

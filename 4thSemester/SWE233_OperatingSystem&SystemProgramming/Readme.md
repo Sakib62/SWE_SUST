@@ -8,8 +8,7 @@
 
 <b>Book:</b>
 
-Operating System Concepts - 10th Edition
-by Abraham Silberschatz, Peter Baer Galvin, Greg Gagne
+[Operating System Concepts - 10th Edition](Books/Operating_System_Concepts_10E.pdf)
 <br><br>
 
 <h2 align="center"><u><b>Previous Lecture</b></u></h2>
@@ -328,7 +327,7 @@ Deadlock
 - Deadlock - 4 characteristics
 - Resource Allocation Graph - cycle, instance of resources
 
-<br><u><h2>Lecture-09: 23th November, 2022</u></h2>
+<br><u><h2>Lecture-09: 23rd November, 2022</u></h2>
 
 - Circular Wait
 - Safe State
