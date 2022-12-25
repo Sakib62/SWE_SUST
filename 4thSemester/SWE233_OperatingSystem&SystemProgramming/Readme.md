@@ -358,6 +358,13 @@ Deadlock
 
 <br><h2><u>Lecture-14: 11th November, 2022</u></h2>
 
-Online class
+Online Class
 
 - Introduction to OS
+
+<br><h2><u>Lecture-15: 23rd November, 2022</u></h2>
+
+Online Class
+
+- Paging, Fragmentation
+- Implementation, Structure of Page Table
