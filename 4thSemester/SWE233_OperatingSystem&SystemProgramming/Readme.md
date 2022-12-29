@@ -147,7 +147,7 @@ It swaps out process from memory to disk and Swaps in from disk if needed.
 
 <br><h2><u>Lecture-03: 20th October, 2022</u></h2>
 
-Online class
+`Online class`
 
 Representation of Process Scheduling
 
@@ -252,7 +252,7 @@ Representation of Process Scheduling
 
 <br><h2><u>Lecture-05: 27th October, 2022</u></h2>
 
-Online class
+`Online class`
 
 **Chapter 5: CPU Scheduling**
 - Basic Concepts
@@ -305,7 +305,7 @@ Among some System Process - Memory Allocation, Invalid Operation, Garbage Collec
 
 <br><h2><u>Lecture-07: 3rd November, 2022</u></h2>
 
-Online Class
+`Online Class`
 
 CPU Scheduling
 
@@ -340,31 +340,45 @@ Deadlock
 
 <br><h2><u>Lecture-10: 30th November, 2022</u></h2>
 
-- Online Class 10 minute
+`Online Class` short duration
 - Deadlock Detection
 
-<br><h2><u>Lecture-11: 4th November, 2022</u></h2>
+<br><h2><u>Lecture-11: 4th December, 2022</u></h2>
 
 - Deadlock Revised
 - Memory Management
 
-<br><h2><u>Lecture-12: 5th November, 2022</u></h2>
+<br><h2><u>Lecture-12: 5th December, 2022</u></h2>
 
 - Memory Management
 
-<br><h2><u>Lecture-13: 7th November, 2022</u></h2>
+<br><h2><u>Lecture-13: 7th December, 2022</u></h2>
 
 - Memory Management
 
-<br><h2><u>Lecture-14: 11th November, 2022</u></h2>
+<br><h2><u>Lecture-14: 11th December, 2022</u></h2>
 
-Online Class
+`Online Class`
 
+- Chapter 1 & 2
 - Introduction to OS
 
-<br><h2><u>Lecture-15: 23rd November, 2022</u></h2>
+<br><h2><u>Lecture-15: 23rd December, 2022</u></h2>
 
-Online Class
+`Online Class`
 
 - Paging, Fragmentation
 - Implementation, Structure of Page Table
+
+<br><h2><u>Lecture-16: 27th December, 2022</u></h2>
+
+`Online Class`
+
+- Paging
+- Virtual Memory 
+
+<br><h2><u>Lecture-17: 29th December, 2022</u></h2>
+
+`Online Class`
+
+- Virtual Memory
