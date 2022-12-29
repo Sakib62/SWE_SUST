@@ -7,7 +7,7 @@
 , [Anisul Islam](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qw5pu16QgnKNj91Rnjoyd0)
 , [Lydia](https://www.youtube.com/playlist?list=PLhqug0UEsC-IDomfNsn8e3neoy34o8oye)
 
-**Book** - [Hopcroft - Introduction to Automata Theory](Books/Hopcraft-Introduction_to_Automata_Theory.pdf)
+**Book** - [Hopcroft - Introduction to Automata Theory](Books/Hopcroft-Introduction_to_Automata_Theory.pdf)
 
 <br><h2><u>Lecture-01: 22nd August, 2022</u></h2>
 
