@@ -368,7 +368,7 @@ Deadlock
 `Online Class`
 
 - Paging, Fragmentation
-- Implementation, Structure of Page Table
+- Implementation & Structure of Page Table
 
 <br><h2><u>Lecture-16: 27th December, 2022</u></h2>
 
@@ -382,3 +382,15 @@ Deadlock
 `Online Class`
 
 - Virtual Memory
+
+<br><h2><u>Lecture-18: 30th December, 2022</u></h2>
+
+`Online Class`
+
+- Virtual Memory
+
+<br><h2><u>Lecture-19: 31st December, 2022</u></h2>
+
+`Online Class`
+
+- [Term Test](Exam.md) Question Discussion
