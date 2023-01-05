@@ -13,6 +13,8 @@
 
 <br><b><u>Final Exam: 5th January, 2023</u></b>
 
+<img src = "Question/Final.jpeg" align="center" alt="TT1 Question" width = "60%" height = "60%">
+
 <br><h2 align = "center"><i>Previous Question</i></h2>
 
 <br><b><u>CSE19 Final:</u></b>
