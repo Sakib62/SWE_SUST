@@ -67,7 +67,7 @@ FFT* (probably)
 <br><h2><u>Lecture-05: 6th September, 2022</u></h2>
 
 1. BigMod / Modular Exponentiation
-2. [Extended Euclid](https://cp-algorithms.com/algebra/extended-euclid-algorithm.html)
+2. Extended Euclid
 3. Modular Multiplicative Inverse
 4. Fermat's Little Theorem
 
@@ -117,36 +117,20 @@ Algorithm & Complexity Analysis
 <br><h2><u>Lecture-14: 8th November, 2022</u></h2>
 
 1. String Hashing
-    - h(k1) = h(k2) [k1!=k2]<br>
-    - if this condition is violated, collision occurs.
-    - Goal is to reduce collision probability.
-
-
 2. Ways to mitigate collision
-    1. **Hashing With Chain**<br>
-        For each index, a linked list
+    - Hashing With Chain
+    - Linear Probing
 
-    2. **Linear Probing**<br>
-        Put in immediate next empty index. Worst case of insertion is O(n).
-
-    3. **Quadratic Probing**<br>
-        Put in index derived from formula. Worst case improved.
-
+    - Quadratic Probing
 
 3. How to retrieve?
 4. Why prime is used to mod?
+5. Load Factor
 
-5. Load Factor (alpha)
-    - At most how many value will be mapped at a index?
-    - N/K  (Assuming keys are random)
-    - So, O(1 + alpha)
-
-6. Resource
-
-    - [Hash Table 1](https://www.programiz.com/dsa/hash-table)
-    - [Hash Table 2](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)
-    - [Hash Table 3](https://datastructures.maximal.io/hash-tables/)
-    - [Hashing](https://medium.com/basecs/hashing-out-hash-functions-ea5dd8beb4dd)
+    - [**Programiz - Hash Table**](https://www.programiz.com/dsa/hash-table)
+    - [**Basics of Hash Table**](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)
+    - [**Hash Table**](https://datastructures.maximal.io/hash-tables/)
+    - [**Hash Funciton**](https://medium.com/basecs/hashing-out-hash-functions-ea5dd8beb4dd)
 
 
 
@@ -155,6 +139,7 @@ Algorithm & Complexity Analysis
 1. Hashing proof
 2. Universal Hashing Function
 3. Random Indicator
+    - [**Hashing Note**](Resource/Hashing_Note.pdf)
 
 <br><h2><u>Lecture-16: 15th November, 2022</u></h2>
 
@@ -165,7 +150,7 @@ Algorithm & Complexity Analysis
 1. 0-1 knapsack
 2. Top Down/Recusive & Bottom Up/Iterative approach
 3. Next Class: Coin Change, LCS
-4. [DP Resource](https://bit.ly/dpseriestuf)
+    - [**DP Resource**](https://takeuforward.org/dynamic-programming/striver-dp-series-dynamic-programming-problems/)
 
 <br><h2><u>Lecture-18: 4th December, 2022</u></h2>
 
@@ -176,3 +161,4 @@ Algorithm & Complexity Analysis
 <br><h2><u>Lecture-19: 13th December, 2022</u></h2>
 
 1. KMP
+    - [**Resource**](https://www.scaler.com/topics/data-structures/kmp-algorithm/)
