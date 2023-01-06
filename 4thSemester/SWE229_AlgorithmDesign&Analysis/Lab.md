@@ -1,12 +1,13 @@
-Evolution via programming contest in VJudge.
+Evaluation via programming contest in [VJudge](https://vjudge.net/).
 
 **Topics:** 
 - Number Theory
-- Sorting, Hashing
-- Dynamic Programming
-- String Matching
 - Shortest Path, Max Flow
+- Dynamic Programming
+- Sorting
+- Hashing
+- String Matching
 
-Onsite contest for lab final
+Onsite contest for Lab Final
 
-Solution of contest problems in [this link](https://github.com/Sakib62/Contest_Solution/tree/master/SUST/Academic/SWE230_Algorithm)
+[Click here](https://github.com/Sakib62/Contest_Solution/tree/master/SUST/Academic/SWE230_Algorithm) to find solution with explanation of contest problems.
