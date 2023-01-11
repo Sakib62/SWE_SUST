@@ -9,6 +9,8 @@
 
 **Book** - [Hopcroft - Introduction to Automata Theory](Books/Hopcroft-Introduction_to_Automata_Theory.pdf)
 
+**Note** - [This Note](Resource/Note_by_Mashrafi.pdf) prepared by [Mashrafi](https://github.com/MashRafi-313)
+
 <br><h2><u>Lecture-01: 22nd August, 2022</u></h2>
 
 1. What is Automata?
