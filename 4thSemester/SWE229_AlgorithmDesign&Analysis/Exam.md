@@ -22,3 +22,11 @@
 <img src = "Question/TT2.jpeg" width = "55%" align = "center" alt="TT2 Question">
 
 <br><h2><u>Final Exam: 9th January, 2023</u></h2>
+
+Page 1
+
+<img src = "Question/Final_Page1.jpeg" width = "55%" align = "center" alt="TT2 Question">
+
+<br>Page 2 <br>
+
+<img src = "Question/Final_Page2.jpeg" width = "55%" align = "center" alt="TT2 Question">
