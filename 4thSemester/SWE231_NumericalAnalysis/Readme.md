@@ -4,10 +4,19 @@
 
 **Book:** [Numerical Methods for Engineers by Steven C. Chapra](Books/Numerical_Methods_for_Engineers_6E.pdf)
 
-**Playlist** [Bhagwan Singh](https://www.youtube.com/playlist?list=PLdM-WZokR4tZb3xr9l1hBdzd-7m5mgHh_)
-, [Dr. Gajendra](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLrTna7UuaVfGZYkNo0cpVC)
+**Playlist:** [💥Bhagwan Singh](https://www.youtube.com/playlist?list=PLdM-WZokR4tZb3xr9l1hBdzd-7m5mgHh_)
+, [💚Dr. Gajendra](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLrTna7UuaVfGZYkNo0cpVC)
+, [✅Anisul Islam](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oKFrSOo4Kwns1-vTZmKQ7z)
 
-**Site:** [MathForCollege](https://nm.mathforcollege.com)
+**Site:** [💚AtoZmath](https://atozmath.com/Menu/ConmMenu.aspx), [MathForCollege](https://nm.mathforcollege.com)
+
+<br>
+
+**Note:** [⭐Click Here⭐](Resource/Numerical_Lectures.pdf)
+
+**TT & Previous Year Question:** [💛Click Here💛](Exam.md)
+
+**To-Do:** Math in Tabular form, Time Management, Correct Formula, Proper Use of Calculator.
 
 <br><h2><u>Lecture-01: 29th August, 2022</u></h2>
 
@@ -57,9 +66,9 @@
 <br><h2><u>Lecture-03: 5th September, 2022</u></h2>
 
 <b>Root Finding Methods</b>
-- Bisetion Method
-- Method of False Position
-- Newton Raphson's Method
+- [💥Bisetion Method](https://byjus.com/maths/bisection-method/)
+- [💥Method of False Position](https://byjus.com/maths/false-position-method/)
+- [💥Newton Raphson's Method](https://byjus.com/maths/newton-raphson-method/)
 - Fixed Point Iteration Method
 
 Proofs, Maths, Step by step Solution<br>
@@ -132,8 +141,7 @@ Find the root of the following functions using bisection method:
 - Proof, Geometric Expansion
 - Find root using Newton Raphson Method: <b>x^3 - 2x^2 - 4 = 0 (a = 2, b = 3)</b>
 
-**Newton Raphson Method Using Calculator:** 
-[Click Here](https://www.youtube.com/watch?v=OfrHdlCgmjw)
+[**Video - Newton Raphson Method Using Calculator**](https://www.youtube.com/watch?v=OfrHdlCgmjw)
 
 <br><h2><u>Lecture-05: 19th September, 2022</u></h2>
 
@@ -154,10 +162,16 @@ Find the root of the following functions using bisection method:
 
 - ODE (Ordinary Differential Equation)
     - Euler Method
-    - Runge Kutta Method (2nd Order)
+    - Runge Kutta Method (2nd Order)<br>[Blog Overview of Runge Kutta order](https://byjus.com/maths/runge-kutta-rk4-method/)
 
 <br>
 
 - SLE (System of Linear Equation)
     - Gauss Jacobi Method
     - Gauss Seidel Method
+
+<br>
+
+- Assignment on: 
+    - Gaussian Elimination Method
+    - Gauss Jordan Method
