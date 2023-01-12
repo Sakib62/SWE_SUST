@@ -15,3 +15,11 @@
 <img src = "Question/TT2.jpeg" align="center" alt="TT2 Question" width = "60%" height = "80%">
 
 <br><h2><u>Final: 12th January, 2023</u></h2>
+
+Page 1
+
+<img src = "Question/Final_Page1.jpeg" align="center" alt="TT2 Question" width = "60%" height = "80%">
+
+<br>Page 2<br>
+
+<img src = "Question/Final_Page2.jpeg" align="center" alt="TT2 Question" width = "60%" height = "80%">
