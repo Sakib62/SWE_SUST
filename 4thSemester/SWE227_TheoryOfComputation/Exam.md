@@ -18,8 +18,8 @@
 
 Page 1
 
-<img src = "Question/Final_Page1.jpeg" align="center" alt="TT2 Question" width = "60%" height = "80%">
+<img src = "Question/Final_Page1.jpeg" align="center" alt="Final_Page1 Question" width = "60%" height = "80%">
 
 <br>Page 2<br>
 
-<img src = "Question/Final_Page2.jpeg" align="center" alt="TT2 Question" width = "60%" height = "80%">
+<img src = "Question/Final_Page2.jpeg" align="center" alt="Final_Page2 Question" width = "60%" height = "80%">

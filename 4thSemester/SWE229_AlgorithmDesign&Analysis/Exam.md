@@ -25,8 +25,8 @@
 
 Page 1
 
-<img src = "Question/Final_Page1.jpeg" width = "55%" align = "center" alt="TT2 Question">
+<img src = "Question/Final_Page1.jpeg" width = "55%" align = "center" alt="Final_Page1 Question">
 
 <br>Page 2 <br>
 
-<img src = "Question/Final_Page2.jpeg" width = "55%" align = "center" alt="TT2 Question">
+<img src = "Question/Final_Page2.jpeg" width = "55%" align = "center" alt="Final_Page2 Question">
