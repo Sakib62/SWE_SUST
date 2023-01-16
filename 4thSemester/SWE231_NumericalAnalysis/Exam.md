@@ -20,6 +20,7 @@ Root Finding Method
 
 <br><b><u>Final: 16th January, 2023</u></b>
 
+<img src = "Question/Final.jpeg" align="center" alt="SWE'19 Final Question" width = "60%" height = "60%">
 
 <br><br><b><u>SWE 17 Final Exam Question</u></b>
 
