@@ -11,7 +11,7 @@
 
 <b>TT & Previous Year Question</b>: [Click Here](Exam.md)
 
-<b>Videos: </b> Class Recordings shared in GDrive.
+<b>VIDEOS: </b> [<u>CLASS RECORDINGS SHARED IN DRIVE</u>](https://drive.google.com/drive/folders/1Ox_DI_FK9NgM7Bu1UckrbyUITqSEN5oT)
 
 <b>Chapters:</b>  
 - Chapter 1: Introduction
