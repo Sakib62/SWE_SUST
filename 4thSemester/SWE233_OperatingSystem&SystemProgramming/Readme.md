@@ -1,7 +1,6 @@
 <h1 align="center">Operating System and System Programming</h1>
 
-<b>Book:</b> [Operating System Concepts - 10th Edition](Books/Operating_System_Concepts_10E.pdf)
-
+<b>Book:</b> [Operating System Concepts - 10th Edition](Books/Operating_System_Concepts_10E.pdf)<br>
 <b>Slides:</b> [Operating System Concepts](Resource)
 
 <b>Playlist:</b> 
@@ -12,11 +11,10 @@
 - [Neso Academy (Incomplete)](https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
 - [Hamid Mukhtar](https://www.youtube.com/playlist?list=PLBpMYKycVdGb3tlVlmR9Rmx47p6UOVp7W) etc.
 
-<b>⭐TT & Previous Year Question</b>: [Click Here](Exam.md)
-
+<br><b>⭐TT & Previous Year Question</b>: [Click Here](Exam.md)<br>
 <b>⭐Class Record: </b> [<u>✅Drive Link✅</u>](https://drive.google.com/drive/folders/1Ox_DI_FK9NgM7Bu1UckrbyUITqSEN5oT)
 
-<b>⭐Chapters:</b>  
+<br><b>⭐Chapters:</b>  
 - Chapter 1: Introduction
 - Chapter 3: Processes (Skip slides related to -> Linux, Example code in C, Fork, POSIX, Mach)
 - Chapter 5: CPU Scheduling
