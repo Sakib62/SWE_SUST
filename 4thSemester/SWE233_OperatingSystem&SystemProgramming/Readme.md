@@ -10,19 +10,23 @@
 - [Farhan Hossan](https://www.youtube.com/playlist?list=PLgrAmbRAezujiknEO3sqpyCC4K3IgS4KU)
 - [fba13](https://www.youtube.com/playlist?list=PLJW6cU20q-SNCeRTbz3gOO6MMJb5C3tNO)
 - [Neso Academy (Incomplete)](https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
-- [Hamid Mukhtar](https://www.youtube.com/playlist?list=PLBpMYKycVdGb3tlVlmR9Rmx47p6UOVp7W)
+- [Hamid Mukhtar](https://www.youtube.com/playlist?list=PLBpMYKycVdGb3tlVlmR9Rmx47p6UOVp7W) etc.
 
-<b>TT & Previous Year Question</b>: [Click Here](Exam.md)
+<b>⭐TT & Previous Year Question</b>: [Click Here](Exam.md)
 
-<b>VIDEOS: </b> [<u>✅Class Recordings Shared in Drive✅</u>](https://drive.google.com/drive/folders/1Ox_DI_FK9NgM7Bu1UckrbyUITqSEN5oT)
+<b>⭐Class Record: </b> [<u>✅Drive Link✅</u>](https://drive.google.com/drive/folders/1Ox_DI_FK9NgM7Bu1UckrbyUITqSEN5oT)
 
-<b>Chapters:</b>  
-- Chapter 1: Introduction (Slide 1 - 32)
-- Chapter 3: Processes (Skip slides reated to -> Linux, Example code in C, Fork, POSIX, Mach)
+<b>⭐Chapters:</b>  
+- Chapter 1: Introduction
+- Chapter 3: Processes (Skip slides related to -> Linux, Example code in C, Fork, POSIX, Mach)
 - Chapter 5: CPU Scheduling
 - Chapter 8: Deadlocks (All Slide)
 - Chapter 9: Main Memory
 - Chapter 10: Virtual Memory
+
+
+>Go through Slides, Watch Recorded Class, YT video.<br>
+Practise Math -> Page Table, Banker Algorithm, Scheduling Algorithm.
 
 <br>
 
