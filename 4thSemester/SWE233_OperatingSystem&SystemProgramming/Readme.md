@@ -15,6 +15,7 @@
 
 <br><b>⭐Chapters:</b>  
 - Chapter 1: Introduction
+- Chapter 2: Operating System Services (System Call, System Services, Architecture -> monolithic, layered - pros & cons))
 - Chapter 3: Processes (Skip slides related to -> Linux, Example code in C, Fork, POSIX, Mach)
 - Chapter 5: CPU Scheduling
 - Chapter 8: Deadlocks (All Slide)
@@ -91,9 +92,9 @@ Practise Math -> Page Table, Banker Algorithm, Scheduling Algorithm.
 
 <hr>
 
-<br><h2 align="center"><b><u>New Lecture (Total : 19)</u></b></h2>
+<br><h2 align="center"><b><u>New Lecture (Total : 20)</u></b></h2>
 
-<br>*Chapter 1 is covered in 1 lecture.*<br>
+<br>*Chapter 1 & 2 are covered in 1 lecture.*<br>
 *Other Chapters are covered in 3 to 4 lectures.*<br>
 *Question Discussed in 1 lecture*
 
@@ -394,3 +395,14 @@ Among some System Process - Memory Allocation, Invalid Operation, Garbage Collec
 `Online Class`
 
 - [Term Test](Exam.md) Question Discussion
+
+<br><h2><u>Lecture-20: 19th January, 2023</u></h2>
+
+`Online Class`
+
+**🔥Chapter - 2: Operating System Services🔥**
+- System Call
+- System Service
+- Operating System Architecture (pros & cons)
+    - Monolithic
+    - Layered Approach
