@@ -3,12 +3,11 @@
 <b>Book:</b> [Operating System Concepts - 10th Edition](Books/Operating_System_Concepts_10E.pdf)<br>
 <b>Slides:</b> [Operating System Concepts](Resource)
 
-<b>Playlist:</b> 
-- [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
+<b>Playlist:</b> As you prefer. Some listed below:
+- [Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) + [fba13](https://www.youtube.com/playlist?list=PLJW6cU20q-SNCeRTbz3gOO6MMJb5C3tNO)
 - [Lecturelia](https://www.youtube.com/playlist?list=PLncy2sD7w4Yr3ZbiP_ipAjgjDRn86N_tT)
+- [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
 - [Farhan Hossan](https://www.youtube.com/playlist?list=PLgrAmbRAezujiknEO3sqpyCC4K3IgS4KU)
-- [fba13](https://www.youtube.com/playlist?list=PLJW6cU20q-SNCeRTbz3gOO6MMJb5C3tNO)
-- [Neso Academy (Incomplete)](https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
 - [Hamid Mukhtar](https://www.youtube.com/playlist?list=PLBpMYKycVdGb3tlVlmR9Rmx47p6UOVp7W) etc.
 
 <br><b>⭐TT & Previous Year Question</b>: [Click Here](Exam.md)<br>
@@ -28,11 +27,7 @@ Practise Math -> Page Table, Banker Algorithm, Scheduling Algorithm.
 
 <br>
 
-*Chapter 1 is covered in 1 lecture.*<br>
-*Other Chapters are covered in 3 to 4 lectures.*<br>
-*Question Discussion in 1 lecture*
-
-<br><h2 align="center"><u><b>Previous Lecture (Total : 3)</b></u></h2>
+<details><summary><h2><u><b>Previous Lecture (Total : 3)</b></u></h2></summary>
 
 <br><h2><u>Lecture-01: 22nd August, 2022</u></h2>
 
@@ -81,18 +76,26 @@ Practise Math -> Page Table, Banker Algorithm, Scheduling Algorithm.
     - Accounting Information - CPU used, clock time elapsed since start, time limits.
     - I/O Status Information - I/O device allocated to process, list of open files.
 
-5. Process Scheduling
+4. Process Scheduling
     - Maximize CPU use
     - Quickly switch processes onto CPU for time sharing.
 
-6. Multiprocess Architecture
+5. Multiprocess Architecture
     - Google Chrome Browser is multiprocess ( Browser , Render , Plug-in
 
-7. InterProcess Communication
+6. InterProcess Communication
     - Shared Memory
     - Message Queue
 
+</details>
+
+<hr>
+
 <br><h2 align="center"><b><u>New Lecture (Total : 19)</u></b></h2>
+
+<br>*Chapter 1 is covered in 1 lecture.*<br>
+*Other Chapters are covered in 3 to 4 lectures.*<br>
+*Question Discussed in 1 lecture*
 
 <br><h2><u>Lecture-01: 11th October, 2022</u></h2>
 
