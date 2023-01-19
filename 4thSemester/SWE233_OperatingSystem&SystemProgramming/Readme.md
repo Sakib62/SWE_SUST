@@ -4,20 +4,23 @@
 
 <b>Slides:</b> [Operating System Concepts](Resource)
 
-<b>Playlist:</b> [Lecturelia](https://www.youtube.com/playlist?list=PLncy2sD7w4Yr3ZbiP_ipAjgjDRn86N_tT), [fba13](https://www.youtube.com/watch?v=tBVWKGBAeQ8&list=PLJW6cU20q-SNCeRTbz3gOO6MMJb5C3tNO), 
-[Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p),
-[Neso Academy](https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O), 
-[Hamid Mukhtar](https://www.youtube.com/playlist?list=PLBpMYKycVdGb3tlVlmR9Rmx47p6UOVp7W)
+<b>Playlist:</b> 
+- [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
+- [Lecturelia](https://www.youtube.com/playlist?list=PLncy2sD7w4Yr3ZbiP_ipAjgjDRn86N_tT)
+- [Farhan Hossan](https://www.youtube.com/playlist?list=PLgrAmbRAezujiknEO3sqpyCC4K3IgS4KU)
+- [fba13](https://www.youtube.com/playlist?list=PLJW6cU20q-SNCeRTbz3gOO6MMJb5C3tNO)
+- [Neso Academy (Incomplete)](https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
+- [Hamid Mukhtar](https://www.youtube.com/playlist?list=PLBpMYKycVdGb3tlVlmR9Rmx47p6UOVp7W)
 
 <b>TT & Previous Year Question</b>: [Click Here](Exam.md)
 
-<b>VIDEOS: </b> [<u>CLASS RECORDINGS SHARED IN DRIVE</u>](https://drive.google.com/drive/folders/1Ox_DI_FK9NgM7Bu1UckrbyUITqSEN5oT)
+<b>VIDEOS: </b> [<u>✅Class Recordings Shared in Drive✅</u>](https://drive.google.com/drive/folders/1Ox_DI_FK9NgM7Bu1UckrbyUITqSEN5oT)
 
 <b>Chapters:</b>  
-- Chapter 1: Introduction
-- Chapter 3: Processes
+- Chapter 1: Introduction (Slide 1 - 32)
+- Chapter 3: Processes (Skip slides reated to -> Linux, Example code in C, Fork, POSIX, Mach)
 - Chapter 5: CPU Scheduling
-- Chapter 8: Deadlocks
+- Chapter 8: Deadlocks (All Slide)
 - Chapter 9: Main Memory
 - Chapter 10: Virtual Memory
 
