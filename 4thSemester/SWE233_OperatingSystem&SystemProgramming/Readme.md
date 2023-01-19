@@ -15,7 +15,6 @@
 
 <b>Chapters:</b>  
 - Chapter 1: Introduction
-- Chapter 2: Operating System Services
 - Chapter 3: Processes
 - Chapter 5: CPU Scheduling
 - Chapter 8: Deadlocks
@@ -24,7 +23,7 @@
 
 <br>
 
-*Chapter 1 & 2 are covered in 1 or 2 lectures.*<br>
+*Chapter 1 is covered in 1 lecture.*<br>
 *Other Chapters are covered in 3 to 4 lectures.*<br>
 *Question Discussion in 1 lecture*
 
@@ -32,12 +31,12 @@
 
 <br><h2><u>Lecture-01: 22nd August, 2022</u></h2>
 
-<b>✨Chapter - 1: Introduction✨</b>
+<b>✨<strike>Chapter - 1: Introduction</strike>✨</b>
 - What is OS?
 
 <br><h2><u>Lecture-02: 30th August, 2022</u></h2>
 
-<b>✨Chapter - 2: Operating System Services✨</b>
+<b>✨<strike>Chapter - 2: Operating System Services</strike>✨</b>
 
 - System Call Implementation
 - API - System Call - OS relationship
@@ -48,7 +47,7 @@
 
 <br><h2><u>Lecture-03: 5th September, 2022</u></h2>
 
-<b>✨Chapter - 3: Process✨</b>
+<b>✨<strike>Chapter - 3: Process</strike>✨</b>
 
 1. Concepts
     - A program in execution, progress in sequential fashion. Process has multiple parts:
@@ -353,15 +352,13 @@ Among some System Process - Memory Allocation, Invalid Operation, Garbage Collec
 
 **🔥Chapter - 1: Introduction to OS🔥**
 
-**🔥Chapter - 2: Operating System Services🔥**
-
 <br><h2><u>Lecture-15: 23rd December, 2022</u></h2>
 
 `Online Class`
 
 **🔥Chapter - 9: Main Memory🔥**
-- Paging, Fragmentation
-- Implementation & Structure of Page Table
+- Paging
+- Structure of Page Table
 
 <br><h2><u>Lecture-16: 27th December, 2022</u></h2>
 
