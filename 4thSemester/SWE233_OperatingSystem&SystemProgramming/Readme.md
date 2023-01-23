@@ -20,7 +20,7 @@
 - Chapter 5: CPU Scheduling
 - Chapter 8: Deadlocks (All Slide)
 - Chapter 9: Main Memory
-- Chapter 10: Virtual Memory
+- Chapter 10: Virtual Memory (Up to 45th Slide + Thrashing)
 
 
 >Go through Slides, Watch Recorded Class, YT video.<br>
@@ -30,14 +30,14 @@ Practise Math -> Page Table, Banker Algorithm, Scheduling Algorithm.
 
 <details><summary><h2><u><b>Previous Lecture (Total : 3)</b></u></h2></summary>
 
-<br><h2><u>Lecture-01: 22nd August, 2022</u></h2>
+<br><h2><u><strike>Lecture-01: 22nd August, 2022</strike></u></h2>
 
-<b>✨<strike>Chapter - 1: Introduction</strike>✨</b>
+<b>✨Chapter - 1: Introduction✨</b>
 - What is OS?
 
-<br><h2><u>Lecture-02: 30th August, 2022</u></h2>
+<br><h2><u><strike>Lecture-02: 30th August, 2022</strike></u></h2>
 
-<b>✨<strike>Chapter - 2: Operating System Services</strike>✨</b>
+<b>✨Chapter - 2: Operating System Services✨</b>
 
 - System Call Implementation
 - API - System Call - OS relationship
@@ -46,9 +46,9 @@ Practise Math -> Page Table, Banker Algorithm, Scheduling Algorithm.
 - System Program
 - Operating System Design and Implementation
 
-<br><h2><u>Lecture-03: 5th September, 2022</u></h2>
+<br><h2><u><strike>Lecture-03: 5th September, 2022</strike></u></h2>
 
-<b>✨<strike>Chapter - 3: Process</strike>✨</b>
+<b>✨Chapter - 3: Process✨</b>
 
 1. Concepts
     - A program in execution, progress in sequential fashion. Process has multiple parts:
@@ -92,11 +92,13 @@ Practise Math -> Page Table, Banker Algorithm, Scheduling Algorithm.
 
 <hr>
 
-<br><h2 align="center"><b><u>New Lecture (Total : 20)</u></b></h2>
+<br><h2 align="center"><b><u>New Lecture (Total : 21)</u></b></h2>
 
-<br>*Chapter 1 & 2 are covered in 1 lecture.*<br>
+<br>*Chapter 1 & 2 are covered in 1 lecture each.*<br>
 *Other Chapters are covered in 3 to 4 lectures.*<br>
-*Question Discussed in 1 lecture*
+*Question Discussed in 1 lecture.*
+
+9 Offline + 12 Online = 21 Lectures Total
 
 <br><h2><u>Lecture-01: 11th October, 2022</u></h2>
 
@@ -406,3 +408,14 @@ Among some System Process - Memory Allocation, Invalid Operation, Garbage Collec
 - Operating System Architecture (pros & cons)
     - Monolithic
     - Layered Approach
+
+<br><h2><u>Lecture-21: 20th January, 2023</u></h2>
+
+`Online Class`
+
+Overview & Summary
+
+**🔥Chapter - 10: Virtual Memory🔥**
+- Translation Look-Aside Buffer (TLB)
+- Second-chance Algorithm
+- Thrashing 
