@@ -7,37 +7,49 @@
 - [**Lectures**](#lecture-01-23rd-august-2022)
 - [**Overview**](#overview)
 
-<br><h2>Course Plan</h2>
+<h2>Course Plan</h2>
 
-:white_check_mark: Sieve - Eratosthenes, Linear, Bitwise, Segmented<br>
-:white_check_mark: Divisor - Count, Sum<br>
-:white_check_mark: Phi<br>
-:white_check_mark: Modular Inverse - with Power, with Ext. euclid<br>
-:white_check_mark: CRT - Ext. Euclid
+>**Topics Completed**<br>
+
+:white_check_mark: Sieve -> `Eratosthenes, Linear, Bitwise, Segmented`<br>
+:white_check_mark: Divisors -> `Count & Sum`<br>
+:white_check_mark: Euler Phi / Totient<br>
+:white_check_mark: Modular Inverse -> `with Power, with Extended Euclid`<br>
+:white_check_mark: Chinese Remainder Theorem -> `Extended Euclid`
 
 :white_check_mark: Floyd Warshall<br>
 :white_check_mark: Bellman Ford<br>
-:white_check_mark: Heapify, Heapsort<br>
-:white_check_mark: Counting Sort, Radix Sort, Bucket Sort<br>
-Order Statistics<br>
-:white_check_mark: Hash Table<br>
-Binary Search Tree<br>
-Balance Binary Search Tree - Treap / AVL Tree
+:white_check_mark: Max Flow -> `Ford Fulkerson`
 
-:white_check_mark: DP: Top Down(Recursive), Bottom Up(Iterative), 0-1 Knapsack<br>
-:white_check_mark: Longest Common Subsequence<br>
+:white_check_mark: Count Sort, Radix Sort, Bucket Sort<br>
+:white_check_mark: Heapify, Heapsort
+
+:white_check_mark: Hash Table, Hashing
+
+:white_check_mark: DP: `Top Down -> Recursive`, `Bottom Up -> Iterative`<br>
+:white_check_mark: 0-1 Knapsack<br>
+:white_check_mark: Longest Common Subsequence
+
+:white_check_mark: String Matching -> `KMP, Suffix Array`
+
+<br>
+
+>**Topics Not Completed**<br>
+
+Strongly Connected Component<br>
+Binary Search Tree<br>
+Balanced Binary Search Tree - Treap / AVL Tree<br>
+
 Matrix Chain Multiplication, CoinChange<br>
 Greedy - Task Scheduling<br>
 
-:white_check_mark: Max Flow - Ford Fulkerson
+Rabin Karp<br>
+Order Statistics<br>
+Fast Fourier Transform
 
-:white_check_mark: String Matching - KMP, Suffix Array<br>
-Rabin Karp (Hashing)<br>
-Strongly Connected Component
+<br>
 
-FFT* (probably)
-
-**Covered in CP Course**<br>
+>**Topics Completed in CP Course**<br>
 - [x] Quicksort
 - [x] DSU
 - [x] MST
