@@ -11,7 +11,6 @@
 - [Hamid Mukhtar](https://www.youtube.com/playlist?list=PLBpMYKycVdGb3tlVlmR9Rmx47p6UOVp7W) etc.
 
 <br><b>⭐TT & Previous Year Question</b>: [Click Here](Exam.md)<br>
-<b>⭐Class Record: </b> [<u>✅Drive Link✅</u>](https://drive.google.com/drive/folders/1Ox_DI_FK9NgM7Bu1UckrbyUITqSEN5oT)
 
 <br><b>⭐Chapters:</b>  
 - Chapter 1: Introduction
