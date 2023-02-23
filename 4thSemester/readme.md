@@ -1,6 +1,15 @@
+<h2 align = "center">Class Routine</h2><br>
 <div align = "center">
 
-## [Question](/Question/4thSemester)
+![Class Routine](ClassRoutine.jpeg)
+
+</div>
+<br>
+<div align = "center">
+
+## [⭐Previous Question⭐](/Question/4thSemester)
+
+## [⭐Course Syllabus⭐](Syllabus.pdf)
 </div>
 
 <br>
