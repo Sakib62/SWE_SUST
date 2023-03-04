@@ -7,9 +7,9 @@
 <br>
 <div align = "center">
 
-## [⭐Previous Question⭐](/Question/4thSemester)
+## [⭐Question⭐](/Question/4thSemester)
 
-## [⭐Course Syllabus⭐](Syllabus.pdf)
+## [⭐Syllabus⭐](Syllabus.pdf)
 </div>
 
 <br>
