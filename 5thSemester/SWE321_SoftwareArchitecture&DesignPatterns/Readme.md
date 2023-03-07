@@ -1,6 +1,6 @@
 <h1 align="center">Software Architecture and Design Patterns</h1>
 
-<br><h2>Lecture-01: 22nd February, 2023</h2>
+<h2>Lecture-01: 22nd February, 2023</h2>
 
 - OOP concept important for this course
     - Abstraction, Encapsulation, Inheritance, Polymorphism
@@ -30,4 +30,17 @@
 
 * **Task-1** :: Java Code for [Class Diagram Example: Order System](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/)
 
-<br><h2>Lecture-03: xth March, 2023</h2>
+<br><h2>Lecture-03: 6th March, 2023</h2>
+
+### Solid Principles - [**Blog**](https://shuhanmirza.medium.com/s-o-l-i-d-principle-the-superheros-guide-to-writing-clean-code-d67324506ecf)
+
+- i) Single Responsibility Principle
+- ii) Open-Closed Principle 
+    - Classes should be open for extension and closed to modification.
+- iii) Liskov Substitution Principle
+- iv) Interface Segregation Principle
+- v) Dependency Inversion Principle
+
+**To-do**: Revise Collection Framework in Java
+
+<br><h2>Lecture-04: xth March, 2023</h2>
