@@ -2,6 +2,8 @@
 
 <h2>Week-01: 1st March, 2023</h2>
 
+`Lab Class`
+
 DBMS -> 2 parts
 - i) Design
 - ii) Management
@@ -23,6 +25,8 @@ Development after SRS
 
 <br><h2>Week-02: 9th March, 2023</h2>
 
+`Lab Class`
+
 Design - Management - Administration
 
 **To-do:** 
@@ -38,4 +42,63 @@ Design - Management - Administration
 
 If possible, complete use case & process flow diagram too!!
 
-<br><h2>Week-03: xth March, 2023</h2>
+<br><h2>Week-03: 12th March, 2023</h2>
+
+`Theory Class`
+
+**Book:** Database System Concepts - 6th Edition. by Silberschatz, Korth, Sudarshan
+
+Database => Collection of inter-related data.
+
+- **Database Architecture**
+    - Parallel, Distributed, Centralized etc.
+- **Drawbacks of file system**
+    - Data Redundancy & Inconsistency
+    - Concurrency access (All transaction must be isolated)
+    - Atomicity of updates etc.
+- **Levels of abstraction**
+    - Physical, Logical, View
+
+<br>
+<blockquote>
+Schema = Logical structure of the database.<br>
+Instance = Actual content of the database at a particular point in time.<br>
+Physical Data Independence = Reduce Dependency
+</blockquote><br>
+
+**Data Model**<br>
+Relational Model -- *Follow convention*
+
+DDL = Data Definition Language<br>
+DML = Data Manipulation Language
+
+Primary key, Foreign key<br>
+SQL (in later class)
+
+<br>
+
+**ER Diagram -> Schema -> DML**
+
+<blockquote>
+Database Design
+-> Logical, Physical<br>
+Entity-Relationship Model<br>
+XML = Extensible Markup Language
+-> Defined by WWW Consortium (W3C)
+
+</blockquote><br>
+
+Query Processing<br>
+..............................
+
+<blockquote>
+Non-Technical - Business Requirement Specification (BRS)<br>
+Logical - Use Case, Process Flow, ERD, Risk, Constraint<br>
+Database Programming - Convert into tabular database
+</blockquote><br>
+
+**To-do:** 
+- Don't keep 'User' entity in ER Diagram
+- Buy hard copy of book.
+
+<br><h2>Week-04: xth March, 2023</h2>
