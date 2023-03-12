@@ -32,15 +32,22 @@
 
 <br><h2>Lecture-03: 6th March, 2023</h2>
 
-### Solid Principles - [**Blog**](https://shuhanmirza.medium.com/s-o-l-i-d-principle-the-superheros-guide-to-writing-clean-code-d67324506ecf)
+### Blog - [**Solid Principles**](https://shuhanmirza.medium.com/s-o-l-i-d-principle-the-superheros-guide-to-writing-clean-code-d67324506ecf) 
+
+(*Vpn may be required to access the link*)
 
 - i) Single Responsibility Principle
 - ii) Open-Closed Principle 
     - Classes should be open for extension and closed to modification.
+
+**To-do**: Revise Collection Framework in Java
+
+<br><h2>Lecture-04: 12th March, 2023</h2>
+
 - iii) Liskov Substitution Principle
 - iv) Interface Segregation Principle
 - v) Dependency Inversion Principle
 
-**To-do**: Revise Collection Framework in Java
+**Upcoming:** Solo Project that fulfill Solid Principles
 
-<br><h2>Lecture-04: xth March, 2023</h2>
+<br><h2>Lecture-05: xth March, 2023</h2>
