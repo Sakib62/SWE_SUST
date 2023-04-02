@@ -50,4 +50,16 @@
 
 **Upcoming:** Solo Project that fulfill Solid Principles
 
-<br><h2>Lecture-05: xth March, 2023</h2>
+<br><h2>Lecture-05: 20th March, 2023</h2>
+
+- [Identify which SOLID principle is violated here. Rewrite the code with the correct version.](https://gist.github.com/CosmicBeing09/483ed9f64630dd595e1d6edacde7312d)
+
+- Can have many approach to rewrite correct code. Need to ensure how efficient the design is.
+- Design Pattern
+    - Creational
+    - Structural
+    - Behavioral
+
+<br><h2>Lecture-06: 27th March, 2023</h2>
+
+Offline

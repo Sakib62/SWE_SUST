@@ -1,20 +1,20 @@
 <h1 align="center">Database Management System</h1>
 
-<h2>Week-01: 1st March, 2023</h2>
+<h2>Lecture-01: 1st March, 2023</h2>
 
-`Lab Class`
+`Lab Class` - Week 1
 
 DBMS -> 2 parts
 - i) Design
 - ii) Management
 
 **Week by Week Milestone**
-- Week1: Business Requirement -> Story
-- Week2: Use case, Process, Flow
-- Week3: Data Flow Diagram
-- Week4: Entity Relationship Diagram
+- Week 1: Business Requirement -> Story
+- Week 2: Use Case, Process Flow
+- Week 3: Data Flow Diagram
+- Week 4: Entity Relationship Diagram
 
-Topic Selection
+>Topic Selection
 
 Requirement Analysis in 1st week. 
 - Use Case, Process Flow Diagram
@@ -23,14 +23,14 @@ Design goal in 4th week: ER Diagram
 
 Development after SRS
 
-<br><h2>Week-02: 9th March, 2023</h2>
+<br><h2>Lecture-02: 9th March, 2023</h2>
 
-`Lab Class`
+`Lab Class` - Week 2
 
-Design - Management - Administration
+Design -> Management -> Administration
 
 **To-do:** 
-- Submit hard copy containing<br> Team information, User Story, Raw document files.<br> Snapshot & Description.
+- Submit hard copy containing<br> Team information, User Story, Raw Document Files.<br> Snapshot & Description.
 - Collect documentation to understand the whole process.
 - Field Work -> Collect real document / picture to better analyze what attributes will be needed in database.
 
@@ -42,11 +42,11 @@ Design - Management - Administration
 
 If possible, complete use case & process flow diagram too!!
 
-<br><h2>Week-03: 12th March, 2023</h2>
+<br><h2>Lecture-03: 12th March, 2023</h2>
 
 `Theory Class`
 
-**Book:** Database System Concepts - 6th Edition. by Silberschatz, Korth, Sudarshan
+**Book: Database System Concepts - 6th Edition. by Silberschatz, Korth, Sudarshan**
 
 Database => Collection of inter-related data.
 
@@ -101,4 +101,22 @@ Database Programming - Convert into tabular database
 - Don't keep 'User' entity in ER Diagram
 - Buy hard copy of book.
 
-<br><h2>Week-04: xth March, 2023</h2>
+<br><h2>Lecture-04: 14th March, 2023</h2>
+
+`Theory Class`
+
+Offline
+
+<br><h2>Lecture-05: 15th March, 2023</h2>
+
+`Lab Class` - Week 3
+
+**Presentation**
+- Requirement Collection 
+
+<br><h2>Lecture-06: 29th March, 2023</h2>
+
+`Lab Class` - Week 4
+
+**Presentation**
+- ER Diagram

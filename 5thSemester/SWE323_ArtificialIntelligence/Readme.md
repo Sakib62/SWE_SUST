@@ -25,4 +25,36 @@ Agent Types:
 **H.W. :** Environment<br>
 **To-do:** Buy Book 
 
-<br><h2>Lecture-03: xth March, 2023</h2>
+<br><h2>Lecture-03: 9th March, 2023</h2>
+
+Online by Sushmit.
+
+<br><h2>Lecture-04: 13th March, 2023</h2>
+
+Offline
+
+<br><h2>Lecture-05: 16th March, 2023</h2>
+
+UCS, DLS
+
+<br><h2>Lecture-06: 20th March, 2023</h2>
+
+Heuristic
+
+<br><h2>Lecture-07: 27th March, 2023</h2>
+
+8 Puzzle
+
+<br><h2>Lecture-08: 30th March, 2023</h2>
+
+- State Space Search
+- Hill Climbing Search
+- Simulated Annealing
+
+**Question::**
+- What to do in case of 2 admissible heuristics?
+- Limitations of Hill Climbing Seach in solving 8 Queens. (for lab task)
+
+Chapter 1 - 5 Completed!
+
+> This Readme is Not Updated Fully!
