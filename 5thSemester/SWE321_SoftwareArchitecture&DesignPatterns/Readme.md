@@ -62,4 +62,6 @@
 
 <br><h2>Lecture-06: 27th March, 2023</h2>
 
-Offline
+Creational Design Pattern
+
+<br><h2>Lecture-07: xth April, 2023</h2>

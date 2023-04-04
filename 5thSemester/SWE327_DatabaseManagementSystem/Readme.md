@@ -120,3 +120,12 @@ Offline
 
 **Presentation**
 - ER Diagram
+
+<br><h2>Lecture-07: 4th April, 2023</h2>
+
+`Lab Class` - Week 5
+
+Database Diagram
+- SUST Football Tournament
+
+<br><h2>Lecture-08: xth April, 2023</h2>

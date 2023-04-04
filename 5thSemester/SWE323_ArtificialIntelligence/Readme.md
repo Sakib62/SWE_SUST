@@ -53,8 +53,10 @@ Heuristic
 
 **Question::**
 - What to do in case of 2 admissible heuristics?
-- Limitations of Hill Climbing Seach in solving 8 Queens. (for lab task)
+- Limitations of Hill Climbing Search in solving 8 Queens. (for lab task)
 
 Chapter 1 - 5 Completed!
 
 > This Readme is Not Updated Fully!
+
+<br><h2>Lecture-09: xth April, 2023</h2>
