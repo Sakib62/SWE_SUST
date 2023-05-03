@@ -2,21 +2,39 @@
 
 <br>
 
-**Book:** [Numerical Methods for Engineers by Steven C. Chapra](Books/Numerical_Methods_for_Engineers_6E.pdf)
+**Book :** 
+- Numerical Methods for Engineers - Steven C. Chapra
+- Numerical Analysis - Walter Gautschi
+- Numerical Analysis Using MATLAB and Excel - Steven T Karris
 
-**Playlist:** [💥Bhagwan Singh](https://www.youtube.com/playlist?list=PLdM-WZokR4tZb3xr9l1hBdzd-7m5mgHh_)
-, [💚Dr. Gajendra](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLrTna7UuaVfGZYkNo0cpVC)
-, [✅Anisul Islam](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oKFrSOo4Kwns1-vTZmKQ7z)
+[✅**Book Link**][book]
 
-**Site:** [💚AtoZmath](https://atozmath.com/Menu/ConmMenu.aspx), [MathForCollege](https://nm.mathforcollege.com)
+[book]: https://drive.google.com/drive/folders/1m7BUssdS_JncE8sWi8DYHiH31Pg1dTy9?usp=sharing
 
 <br>
 
-**Note:** [⭐Click Here⭐](Resource/Numerical_Lectures.pdf)
+**Resource :** 
+- Numerical Lectures
 
-**TT & Previous Year Question:** [💛Click Here💛](Exam.md)
+[✅**Resource Link**](https://drive.google.com/drive/folders/1yHfubUmE7wdAR6j35KPiAoc7NGDz3l3t?usp=share_link)
 
-**To-Do:** Math in Tabular form, Time Management, Correct Formula, Proper Use of Calculator.
+<br>
+
+**Playlist :** [💥Bhagwan Singh](https://www.youtube.com/playlist?list=PLdM-WZokR4tZb3xr9l1hBdzd-7m5mgHh_)
+, [💚Dr. Gajendra](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLrTna7UuaVfGZYkNo0cpVC)
+, [✅Anisul Islam](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oKFrSOo4Kwns1-vTZmKQ7z)
+
+**Site :** [AtoZmath](https://atozmath.com/Menu/ConmMenu.aspx), [MathForCollege](https://nm.mathforcollege.com)
+
+<br>
+
+**TT & Previous Year Question :** [💛Click Here💛](Exam.md)
+
+**To-Do:**
+- Math in Tabular form
+- Time Management
+- Correct Formula
+- Proper Use of Calculator
 
 <br><h2><u>Lecture-01: 29th August, 2022</u></h2>
 

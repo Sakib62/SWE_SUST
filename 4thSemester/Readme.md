@@ -7,9 +7,9 @@
 <br>
 <div align = "center">
 
-## [⭐Question⭐](/Question/4thSemester)
+## [⭐Question⭐][ques]
 
-## [⭐Syllabus⭐](Syllabus.pdf)
+## [⭐Syllabus⭐][syl]
 </div>
 
 <br>
@@ -28,3 +28,6 @@
 | 21st January, 2023 | SWE233 | Operating System |
 
 </div>
+
+[ques]: https://drive.google.com/drive/folders/1N_fFFtu3ToYbYnjzggr9rlbCrxh4qigB?usp=share_link
+[syl]: https://drive.google.com/file/d/1uw6eBIa8wutYj804tTEBESeK_M7xqyby/view?usp=share_link

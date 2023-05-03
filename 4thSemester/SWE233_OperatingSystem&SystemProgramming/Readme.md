@@ -1,18 +1,34 @@
 <h1 align="center">Operating System and System Programming</h1>
 
-<b>Book:</b> [Operating System Concepts - 10th Edition](Books/Operating_System_Concepts_10E.pdf)<br>
-<b>Slides:</b> [Operating System Concepts](Resource)
+<b>Book :</b>
+- Operating System Concepts - Silberschatz - 10th Edition
+- Operating Systems in Depth - Thomas W Doeppner
 
-<b>Playlist:</b> As you prefer. Some listed below:
+[✅**Book Link**][book]
+
+[book]: https://drive.google.com/drive/folders/1rV4ZqCYzchrtlv3dvJz47bAeiR9RauN0?usp=share_link
+
+<br>
+
+<b>Resource :</b>
+- Slides of Operating System Concepts
+
+[✅**Resource Link**][res]
+
+[res]: https://drive.google.com/drive/folders/1mb5UZ2lRtG5GdpaWPeFZgsAZRTzXqF79?usp=share_link
+
+<br>
+
+<b>Youtube Playlist :</b>
 - [Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) + [fba13](https://www.youtube.com/playlist?list=PLJW6cU20q-SNCeRTbz3gOO6MMJb5C3tNO)
 - [Lecturelia](https://www.youtube.com/playlist?list=PLncy2sD7w4Yr3ZbiP_ipAjgjDRn86N_tT)
 - [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
 - [Farhan Hossan](https://www.youtube.com/playlist?list=PLgrAmbRAezujiknEO3sqpyCC4K3IgS4KU)
 - [Hamid Mukhtar](https://www.youtube.com/playlist?list=PLBpMYKycVdGb3tlVlmR9Rmx47p6UOVp7W) etc.
 
-<br><b>⭐TT & Previous Year Question</b>: [Click Here](Exam.md)<br>
+<br><b>⭐TT & Previous Year Question :</b> [Click Here](Exam.md)<br>
 
-<br><b>⭐Chapters:</b>  
+<br><b>⭐Chapters :</b>  
 - Chapter 1: Introduction
 - Chapter 2: Operating System Services (System Call, System Services, Architecture -> monolithic, layered - pros & cons))
 - Chapter 3: Processes (Skip slides related to -> Linux, Example code in C, Fork, POSIX, Mach)

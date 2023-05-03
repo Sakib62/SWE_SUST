@@ -2,9 +2,25 @@
 
 <br>
 
-**Book**: [Management Information System by Kenneth C. Laudon, Jane P. Laudon](Books/Laudon_Management_Information_Systems_13E.pdf)
+**Book :** 
+- Management Information System - Kenneth C. Laudon, Jane P. Laudon
 
-**Summary:** [Book Summary](Resource)
+[✅**Book Link**][book]
+
+[book]: https://drive.google.com/drive/folders/1ccYiZV1ZUWdHFa532dSdb4bUO-_DNYxY?usp=share_link
+
+<br>
+
+**Resource :**
+- Part 1 - Modules
+- Part 2 - Book Summary
+- Use Case & Workflow Diagram
+
+[✅**Resource Link**][res]
+
+[res]: https://drive.google.com/drive/folders/1XdCoKpLjEx_NQ-bsszALF51RavVtUNP0?usp=share_link
+
+<br>
 
 <h2 align="center"><u><b>Previous Lecture</b></u></h2>
 

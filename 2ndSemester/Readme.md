@@ -7,9 +7,9 @@
 <br>
 <div align = "center">
 
-## [⭐Question⭐](/Question/2ndSemester)
+## [⭐Question⭐][ques]
 
-## [⭐Syllabus⭐](Syllabus.pdf)
+## [⭐Syllabus⭐][syl]
 </div>
 
 <br>
@@ -28,3 +28,6 @@
 
 
 </div>
+
+[ques]: https://drive.google.com/drive/folders/10w9t3SS-pwI9ZzLmUottVSdu6hFbt8em?usp=share_link
+[syl]: https://drive.google.com/file/d/1SC-lS3_W_TwgaDDhVKfd8p8istisP9bf/view?usp=share_link

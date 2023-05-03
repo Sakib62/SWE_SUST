@@ -12,6 +12,12 @@
 
 <img src = "Question/TT1.jpeg" align="center" alt="TT1 Question" width = "90%">
 
+<br>
+
+[✅**Resource Link for TT**][res]
+
+[res]: https://drive.google.com/drive/folders/1XdCoKpLjEx_NQ-bsszALF51RavVtUNP0?usp=share_link
+
 <br><b><u>TT2: 17th December, 2022</u></b>
    - Part2 first 7 lectures
 

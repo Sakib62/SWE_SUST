@@ -7,7 +7,10 @@
 <br>
 <div align = "center">
 
-## [⭐Question⭐](/Question/5thSemester)
+## [⭐Question⭐][ques]
 
-## [⭐Syllabus⭐](Syllabus.pdf)
+## [⭐Syllabus⭐][syl]
 </div>
+
+[ques]: https://drive.google.com/drive/folders/1-z00v0KwscyUJ3OM9cfXhsnmbBxvQdM0?usp=share_link
+[syl]: https://drive.google.com/file/d/17D3TA_ZTkBTeXb9tY33LRqyQGuua-AH5/view?usp=share_link

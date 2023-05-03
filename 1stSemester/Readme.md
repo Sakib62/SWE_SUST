@@ -7,9 +7,9 @@
 <br>
 <div align = "center">
 
-## [⭐Question⭐](/Question/1stSemester)
+## [⭐Question⭐][ques]
 
-## [⭐Syllabus⭐](Syllabus.pdf)
+## [⭐Syllabus⭐][syl]
 </div>
 
 <br>
@@ -28,3 +28,6 @@
 | 11th August, 2021 | ENG 101W | Effective Communication in English |
 
 </div>
+
+[ques]: https://drive.google.com/drive/folders/1PH30SeS-K0B9ZAvUzFL0sYKaRU8o9XjP?usp=share_link
+[syl]: https://drive.google.com/file/d/1-7sJxp0piex2_QwzBYNKVYKhpl7dnxTE/view?usp=share_link

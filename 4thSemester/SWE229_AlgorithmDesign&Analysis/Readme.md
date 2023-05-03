@@ -59,9 +59,16 @@ Fast Fourier Transform
 
 <br><h2>Resource</h2>
 
-**Site:** [CP Algorithms](https://cp-algorithms.com/), [GeeksForGeeks](https://www.geeksforgeeks.org/), [Shafaet's Planet](https://www.shafaetsplanet.com/), [ForthRight48](https://forthright48.com/)
+**Site :** [CP Algorithms](https://cp-algorithms.com/), [GeeksForGeeks](https://www.geeksforgeeks.org/), [Shafaet's Planet](https://www.shafaetsplanet.com/), [ForthRight48](https://forthright48.com/)
 
-**Book:** [Introduction to Algorithms](Books/Introduction_to_Algorithms_3E.pdf)
+**Book :** 
+- Introduction to Algorithms - CLRS
+- Problem Solving Methods in Combinatorics
+- Algorithms - Sedgewick, Wayne
+
+[✅**Book Link**][book]
+
+[book]: https://drive.google.com/drive/folders/1-vVeZ3cfpp2E51r-7-GUzuG4GfATqp25?usp=share_link
 
 <br><h2><u>Lecture-01: 23rd August, 2022</u></h2>
 
@@ -168,7 +175,7 @@ Resource in GeeksForGeeks, Youtube etc.
 1. Hashing proof
 2. Universal Hashing Function
 3. Random Indicator
-    - [**Hashing Note**](Resource/Hashing_Note.pdf)
+    - [**Hashing Note**](https://drive.google.com/file/d/1R0IkcmskBYAMTAThqsfcitaX_uacXdsT/view?usp=share_link)
 
 <br><h2><u>Lecture-16: 15th November, 2022</u></h2>
 

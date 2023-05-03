@@ -7,38 +7,88 @@ PDF's of books recommended by Teachers.
 ## 3rd Semester
 
 ### Computer Architecture
-- [Computer Architecture A Quantitative Approach - Hennessy, Patterson (5th Edition)](https://nbviewer.org/github/Sakib62/SWE_SUST/blob/main/3rdSemester/CSE219W_ComputerArchitecture/Books/Computer-Architecture-A-Quantitative-Approach-5E.pdf)
+- **Hennessy, Patterson - Computer Architecture A Quantitative Approach  (5th Edition)**
+- S. K. Sen - Understanding 8085/8086 Microprocessors and Peripheral ICs
+
+[✅**Computer Architecture Books**][comparchi]
 
 ### Cost & Management Accounting
-- [Managerial Accounting - Garrison (13th-Edition)](https://nbviewer.org/github/Sakib62/SWE_SUST/blob/main/3rdSemester/BUS201W_Cost%26ManagementAccounting/Books/Managerial-Accounting-Garrison-13E.pdf)
+- **Garrison - Managerial Accounting (13th-Edition)**
+
+[✅**Accounting Books**][accounting]
 
 ### Object Oriented Programming
-- [Java The Complete Reference - Schildt (9th Edition)](https://nbviewer.org/github/Sakib62/SWE_SUST/blob/main/3rdSemester/SWE223_ObjectOrientedProgramming/Books/Java-The-Complete-Reference-9E-Schildt.pdf)
+- **Schildt - Java The Complete Reference (9th Edition)**
+
+[✅**OOP Books**][oop]
 
 ### Principles of Economics
-- [Economics - Arnold (9th Edition)](https://nbviewer.org/github/Sakib62/SWE_SUST/blob/main/3rdSemester/ECO205W_PrinciplesOfEconomics/Books/Arnold-Economics-9E.pdf)
+- **Arnold - Economics (9th Edition)**
+- Hubbard - Economics
+
+[✅**Economics Books**][eco]
 
 ### Software Requirement Engineering
-- [Software Engineering A Practitioner's Approach - Pressman (7th Edition)](https://nbviewer.org/github/Sakib62/SWE_SUST/blob/main/3rdSemester/SWE225_SoftwareRequirementEngineering/Books/SWE-A-Practitioner's-Approach-7E-Pressman.pdf)
+- **Pressman - Software Engineering A Practitioner's Approach  (7th Edition)**
 
-<br>
+[✅**SRE Books**][sre]
+
+[comparchi]: https://drive.google.com/drive/folders/1ecLNZcnhALHVf5k0Y2W-ZK18S2XT_e7Y?usp=share_link
+[accounting]: https://drive.google.com/drive/folders/19fR9zATpdsFD8kVZT_6E8Vvquvdejgx4?usp=sharing
+[oop]: https://drive.google.com/drive/folders/1dBXHyRZrCdMm2gnnb5swVvbgRX6QkGHv?usp=share_link
+[eco]: https://drive.google.com/drive/folders/1iHKjFEKzt53rB1CIVO-kJtizxJ03Hj5-?usp=share_link
+[sre]: https://drive.google.com/drive/folders/1CKzCKPoGaBqfdOFdnHjY8cQjvwNW-AW1?usp=share_link
+
+<br><hr><br>
 
 ## 4th Semester
 
 ### Algorithm Design & Analysis
-- [Introduction to Algorithms - C.L.R.S. (3rd-Edition)](https://nbviewer.org/github/Sakib62/SWE_SUST/blob/main/4thSemester/SWE229_AlgorithmDesign%26Analysis/Books/Introduction_to_Algorithms_3E.pdf)
+- **C.L.R.S. - Introduction to Algorithms (3rd-Edition)**
+- Pablo Soberón - Problem Solving Methods in Combinatorics
+- Sedgewick, Wayne - Algorithms
+
+[✅**Algo Books**][algo]
 
 ### Ethics & Cyber Law
-- [Slides](/4thSemester/SWE235_Ethics%26CyberLaw/Resource)
+- Ethics in Engineering Lec1 **&** Lec2
+- Ethics-1 **&** Engineering Ethics
+- Plagiarism **&** Ethics in Research
+- Cyber Crime **&** ITN_Module_16
+- Digital Security and Cyber Investigation
+
+[✅**Ethics & Cyber Law Slides**][ecl]
 
 ### Management Information System
-- [Management Information System - Laudon (13th-Edition)](https://nbviewer.org/github/Sakib62/SWE_SUST/blob/main/4thSemester/SWE237_ManagementInformationSystem/Books/Laudon_Management_Information_Systems_13E.pdf)
+- **Laudon - Management Information System (13th-Edition)**
+
+[✅**MIS Books**][mis]
 
 ### Numerical Analysis
-- [Numerical Methods for Engineers - Chapra (6th-Edition)](https://nbviewer.org/github/Sakib62/SWE_SUST/blob/main/4thSemester/SWE231_NumericalAnalysis/Books/Numerical_Methods_for_Engineers_6E.pdf)
+- **Chapra - Numerical Methods for Engineers (6th-Edition)**
+- Walter Gautschi - Numerical Analysis
+- Steven T Karris - Numerical Analysis Using MATLAB and Excel
+
+[✅**Numerical Books**][num]
 
 ### Operating System and System Programming
-- [Operating System Concepts - Silberschatz, Gagne, Galvin (10th-Edition)](https://nbviewer.org/github/Sakib62/SWE_SUST/blob/main/4thSemester/SWE233_OperatingSystem%26SystemProgramming/Books/Operating_System_Concepts_10E.pdf)
+- **Silberschatz - Operating System Concept (10th-Edition)**
+- Thomas W Doeppner - Operating Systems in Depth
+
+[✅**OS Books**][os]
 
 ### Theory of Computation
-- [Introduction to Automata Theory, Languages and Computation - Hopcroft (3rd-Edition)](https://nbviewer.org/github/Sakib62/SWE_SUST/blob/main/4thSemester/SWE227_TheoryOfComputation/Books/Hopcroft-Introduction_to_Automata_Theory.pdf)
+- **Hopcroft - Introduction to Automata Theory, Languages and Computation (3rd-Edition)**
+- JC Martin - Introduction to Languages and the Theory of Computation
+- Sipser - Introduction to the Theory of Computation
+
+[✅**TOC Books**][toc]
+
+[algo]: https://drive.google.com/drive/folders/1-vVeZ3cfpp2E51r-7-GUzuG4GfATqp25?usp=share_link
+[ecl]: https://drive.google.com/drive/folders/1xbAdAcO6Gonb9jbSgoR8hthCyJW5evEc?usp=share_link
+[mis]: https://drive.google.com/drive/folders/1ccYiZV1ZUWdHFa532dSdb4bUO-_DNYxY?usp=share_link
+[num]: https://drive.google.com/drive/folders/1m7BUssdS_JncE8sWi8DYHiH31Pg1dTy9?usp=sharing
+[os]: https://drive.google.com/drive/folders/1rV4ZqCYzchrtlv3dvJz47bAeiR9RauN0?usp=share_link
+[toc]: https://drive.google.com/drive/folders/1oCAROtebmUw96x1FWvPGgZYE2jYqU_Jq?usp=share_link
+
+<br><hr><br>

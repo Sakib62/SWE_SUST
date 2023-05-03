@@ -7,8 +7,9 @@
 <br>
 <div align = "center">
 
-## [⭐Question⭐](/Question/3rdSemester)
-## [⭐Syllabus⭐](Syllabus.pdf)
+## [⭐Question⭐][ques]
+
+## [⭐Syllabus⭐][syl]
 </div>
 
 <br>
@@ -26,3 +27,6 @@
 | 8th August, 2022 | CSE 219W | Computer Architecture |
 
 </div>
+
+[ques]: https://drive.google.com/drive/folders/175YL-y5SyuUXBqo3iEMK8IYPhf4lCjJb?usp=share_link
+[syl]: https://drive.google.com/file/d/1Fmdn8_3aRr90ulWqQp1EeETxvDiwAYKo/view?usp=share_link

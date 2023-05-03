@@ -11,6 +11,20 @@
 
 <h2 align="center"><u><b>New Lecture</b></u></h2>
 
+**Resource :**
+- Ethics in Engineering Lec1 **&** Lec2
+- Ethics-1
+- Engineering Ethics
+- Plagiarism
+- Ethics in Research
+- Cyber Crime
+- ITN_Module_16
+- Digital Security and Cyber Investigation
+
+[✅**Resource Link**][res]
+
+[res]: https://drive.google.com/drive/folders/1xbAdAcO6Gonb9jbSgoR8hthCyJW5evEc?usp=share_link
+
 <br><h2><u>Lecture-01: 19th October, 2022</u></h2>
 
 - Course easy. Follow class, attendance.

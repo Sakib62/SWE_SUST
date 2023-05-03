@@ -1,15 +1,30 @@
 <h1 align="center">Theory of Computation</h1>
 
-**Youtube Playlist**
+**Youtube Playlist :**
 
 [Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
 , [Lecturelia](https://www.youtube.com/playlist?list=PLncy2sD7w4YqBniaSEkOtzcZa3UNtWpMF)
 , [Anisul Islam](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qw5pu16QgnKNj91Rnjoyd0)
 , [Lydia](https://www.youtube.com/playlist?list=PLhqug0UEsC-IDomfNsn8e3neoy34o8oye)
 
-**Book** - [Hopcroft - Introduction to Automata Theory](Books/Hopcroft-Introduction_to_Automata_Theory.pdf)
+**Book :**
+- Hopcroft - Introduction to Automata Theory
+- JC Martin - Introduction to Languages and the Theory of Computation
+- Sipser - Introduction to the Theory of Computation
 
-**Note** - [This Note](Resource/Note_by_Mashrafi.pdf) prepared by [Mashrafi](https://github.com/MashRafi-313)
+[✅**Book Link**][book]
+
+[book]: https://drive.google.com/drive/folders/1oCAROtebmUw96x1FWvPGgZYE2jYqU_Jq?usp=share_link
+
+<br>
+
+**Resource :**
+- Note by [Mashrafi](https://github.com/MashRafi-313)
+- Regular Expression
+
+[✅**Resource Link**][res]
+
+[res]: https://drive.google.com/drive/folders/1lfL1LE78mxvbheQ6iAplnxfgauHcSpBq?usp=share_link
 
 <br><h2><u>Lecture-01: 22nd August, 2022</u></h2>
 
