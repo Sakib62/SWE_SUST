@@ -1,131 +1,74 @@
 <h1 align="center">Database Management System</h1>
 
-<h2>Lecture-01: 1st March, 2023</h2>
+**Book :**
+- Database System Concepts - by Silberschatz, Korth, Sudarshan
 
-`Lab Class` - Week 1
+[✅**Book Link**][book]
 
-DBMS -> 2 parts
-- i) Design
-- ii) Management
+[book]: https://drive.google.com/drive/folders/1IWCNzOFnhOjcsKQy79zIa6Rohw1_n1ZB?usp=drive_link
 
-**Week by Week Milestone**
-- Week 1: Business Requirement -> Story
-- Week 2: Use Case, Process Flow
-- Week 3: Data Flow Diagram
-- Week 4: Entity Relationship Diagram
+**Resource :**
+- Intro, SQL, Normalization
+- Storage & File Structure
+- Indexing & Hashing
+- Transaction, Concurrency Control
+- System Architecture
 
->Topic Selection
+[✅**Resource Link**](https://drive.google.com/drive/folders/1_ibvXs3D-3Yn-w0J1wACEbw3P1iPg2ed?usp=drive_link)
 
-Requirement Analysis in 1st week. 
-- Use Case, Process Flow Diagram
+**Playlist :** 
+- Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)
+    - [Part 1](https://youtu.be/4cWkVbC2bNE) FreeCodeCamp
+    - [Part 2](https://youtu.be/lxEdaElkQhQ) FreeCodeCamp
+- [Gate Smashers](https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
 
-Design goal in 4th week: ER Diagram
+**TT & Previous Year Question :** [**Exam.md**](Exam.md)
 
-Development after SRS
+**✅Lab Classes & Tests :** [**Lab.md**✅](Lab.md)
 
-<br><h2>Lecture-02: 9th March, 2023</h2>
+<br><hr><br>
 
-`Lab Class` - Week 2
+<br><h2>Theory-01: 12th March, 2023</h2>
 
-Design -> Management -> Administration
+- Database is a collection of inter-related data.
+- Database Architecture (Parallel, Distributed, Centralized etc.)
+- Levels of abstraction (Physical, Logical, View)
+- Drawbacks of file system
+- **Data Model**
+- DDL, DML
+- Primary key, Foreign key, SQL
+- **ER Diagram -> Schema -> DML**
+-   <blockquote>
+    Non-Technical - Business Requirement Specification (BRS)<br>
+    Logical - Use Case, Process Flow, ERD, Risk, Constraint<br>
+    Database Programming - Convert into tabular database
+    </blockquote>
 
-**To-do:** 
-- Submit hard copy containing<br> Team information, User Story, Raw Document Files.<br> Snapshot & Description.
-- Collect documentation to understand the whole process.
-- Field Work -> Collect real document / picture to better analyze what attributes will be needed in database.
+<br><h2>Theory-02: 14th March, 2023</h2>
 
-- Open / closed interview. Learn whole process.
-- Correction after presenting to related people.
-- If all is okay, convert in use case.
-- Data collection, Fine Tuning, Design, Implementation.
+- Entity-Relationship Model
+- Entity -> Object, Attribute -> Property
+- Degree of a Relationship Set
+- Types of Attribute
+- Keys -> Super, Candidate, Primary
+- E-R Diagram
+- Roles, Cardinality Constraints
+- Weak Entity
 
+<br><h2>Theory-03: 16th May, 2023</h2>
 
-If possible, complete use case & process flow diagram too!!
+- Database Normalization - [Guru99](https://www.guru99.com/database-normalization.html)
 
-<br><h2>Lecture-03: 12th March, 2023</h2>
+<br><h2>Theory-04: 23rd May, 2023</h2>
 
-`Theory Class`
+- Database System Architectures
 
-**Book: Database System Concepts - 6th Edition. by Silberschatz, Korth, Sudarshan**
+<br><h2>Theory-05: 7th June, 2023</h2>
 
-Database => Collection of inter-related data.
+- Transactions
 
-- **Database Architecture**
-    - Parallel, Distributed, Centralized etc.
-- **Drawbacks of file system**
-    - Data Redundancy & Inconsistency
-    - Concurrency access (All transaction must be isolated)
-    - Atomicity of updates etc.
-- **Levels of abstraction**
-    - Physical, Logical, View
+<br><h2>Theory-06: 20th June, 2023</h2>
 
-<br>
-<blockquote>
-Schema = Logical structure of the database.<br>
-Instance = Actual content of the database at a particular point in time.<br>
-Physical Data Independence = Reduce Dependency
-</blockquote><br>
-
-**Data Model**<br>
-Relational Model -- *Follow convention*
-
-DDL = Data Definition Language<br>
-DML = Data Manipulation Language
-
-Primary key, Foreign key<br>
-SQL (in later class)
-
-<br>
-
-**ER Diagram -> Schema -> DML**
-
-<blockquote>
-Database Design
--> Logical, Physical<br>
-Entity-Relationship Model<br>
-XML = Extensible Markup Language
--> Defined by WWW Consortium (W3C)
-
-</blockquote><br>
-
-Query Processing<br>
-..............................
-
-<blockquote>
-Non-Technical - Business Requirement Specification (BRS)<br>
-Logical - Use Case, Process Flow, ERD, Risk, Constraint<br>
-Database Programming - Convert into tabular database
-</blockquote><br>
-
-**To-do:** 
-- Don't keep 'User' entity in ER Diagram
-- Buy hard copy of book.
-
-<br><h2>Lecture-04: 14th March, 2023</h2>
-
-`Theory Class`
-
-Offline
-
-<br><h2>Lecture-05: 15th March, 2023</h2>
-
-`Lab Class` - Week 3
-
-**Presentation**
-- Requirement Collection 
-
-<br><h2>Lecture-06: 29th March, 2023</h2>
-
-`Lab Class` - Week 4
-
-**Presentation**
-- ER Diagram
-
-<br><h2>Lecture-07: 4th April, 2023</h2>
-
-`Lab Class` - Week 5
-
-Database Diagram
-- SUST Football Tournament
-
-<br><h2>Lecture-08: xth April, 2023</h2>
+- Concurrency Control
+- Indexing & Hashing
+- **To-do :** Storage and File Structure
