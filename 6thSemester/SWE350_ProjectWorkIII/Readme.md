@@ -1,33 +1,24 @@
 <h1 align="center">Project Work III</h1>
 
-**Book :**
-- Head First Design Patterns
+- Web Application
+- Not Embedded System
+- Frontend, Backend, Database
 
-[✅**Book Link**][book]
+Milestone::
+- Database Schema
+- UI page
+- Frontend Validation
+- Connecting with backend
+- Full App Check
 
-[book]: https://drive.google.com/drive/folders/1WNyXyrq9euUcc8Vh7VV2GWOt1HClHFl5?usp=sharing
+Tools::
+- HTML, CSS, JavaScript, React JS etc.
+- Node JS etc.
 
-**Resource :**
-- Refactoring & Code Smell
+<h2>🏆First Submission : 12th October, 2023</h2>
+Frontend
 
-[✅**Resource Link**](https://drive.google.com/drive/folders/1IS4_afUr2kNKliW-B7_pYZKl2V9Ojp0x?usp=drive_link)
+<h3>📜Project Report : 16th November, 2023</h3>
 
-**⭐Code :** [Github Repository](https://github.com/CosmicBeing09/Design-Pattern-Demos)<br>
-**⭐Site :** [Refactoring Guru](https://refactoring.guru/design-patterns)
-
-**Course :** The Ultimate Design Patterns - by **CodeWithMosh**
-- Part1 (Behavioral)
-- Part2 (Structural)
-- Part3 (Creational)
-
-**TT & Previous Year Question :** [Exam.md](Exam.md)
-
-<br><hr><br>
-
-<h2>Lecture-01: 22nd August, 2023</h2>
-
-<br><h2>Lecture-02: 22nd August, 2023</h2>
-
-<br><h2>Lecture-03: 22nd August, 2023</h2>
-
-<br><h2>Lecture-04: 22nd August, 2023</h2>
+<h2>🏆Final Submission : 18th November, 2023</h2>
+Frontend & Backend, Validation
