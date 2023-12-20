@@ -1,4 +1,6 @@
-<h1 align="center">Machine Learning</h1>
+<h1 align="center">Machine Learning Question</h1>
+
+[**Question Collection**](https://drive.google.com/drive/folders/10y4Im4hjRKrbvJ91q6oXPF43gD3y99gK?usp=drive_link)
 
 <b><u>Term Test-1: 11th November, 2023</u></b>
 
@@ -18,10 +20,27 @@
 
 <br><h2>Final: 19th December, 2023</h2>
 
-Page 1 :
+- Supervised Learning
+    - Linear & Logistic Regression
+    - Classification
+    - Cost Function
+    - Gradient Descent
+    - Underfitting & Overfitting, Regularization
+- Unsupervised Learning
+    - K-means Clustering
+    - Similarity/Distance (Jaccard, Cosine)
+- Reinforcement Learning
+    - Markov Decision Process
+- Neural Network
+- Model Evaluation, Confusion Matrix
+- SVM - Support Vector Machine, Kernel
+- Naive Bayes Theorem
+- PCA - Principal Component Analysis
+
+**Page 1 :**
 
 <img src = "Question/Final_Page1.jpeg" align="center" alt="Final_Page1 Question" width = "80%">
 
-<br>Page 2 :<br>
+<br>**Page 2 :**<br>
 
 <img src = "Question/Final_Page2.jpeg" align="center" alt="Final_Page2 Question" width = "80%">
