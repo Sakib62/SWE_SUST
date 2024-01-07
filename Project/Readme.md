@@ -28,3 +28,31 @@ Database
 <br>
 
 # Web Application
+
+Portfolio, Todo apps etc.
+
+Frontend
+- HTML
+- CSS
+- Javascript
+    - Vanilla JS
+    - React 
+
+Backend
+- NodeJS with ExpressJS
+- Go
+
+Database
+- MySQL
+
+Hosting
+- Netlify
+- Heroku
+
+<br>
+
+# ML Project
+
+using API, content suggestion, summarization etc.
+
+build model
