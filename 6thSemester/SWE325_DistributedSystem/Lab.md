@@ -26,16 +26,39 @@
     - [Tech School - Complete gRPC course](https://www.youtube.com/playlist?list=PLy_6D98if3UJd5hxWNfAqKMr15HZqFnqf)
 - [⭐**My gRPC Assignment**](https://github.com/Sakib62/gRPC_Producer_Consumer_Management_System)
 
-<h2>Assignment - 3 : Message Queue</h2>
+<br><hr>
 
-Not specified yet
+<blockquote>
 
-No deadline 
+~~Message Queue~~
+- 3 microservices, layer in middle, implement queue, others subscribe in queue, come later if down
+- Rabbit MQ tools, protocol is rpc
+- at least 3, async and persistent
+</blockquote>
 
--> 3 microservices, layer in middle, implement queue, others subscribe in queue, come later if down
+<h2>Lab Final : 23rd January, 2024</h2>
 
-Rabbit MQ tools
+[**⭐Lab Resource⭐**](https://drive.google.com/drive/folders/1kp8zSQVDRBbw6gj0kRymqrbNV2dsrKI5?usp=drive_link)<br>
+[**⭐Hadoop-Docker Setup⭐**](https://github.com/Rifat-Shariar-Sakil-24/Hadoop-Docker)
+<br>[**⭐Github Repo for Demo Code**⭐](https://github.com/CosmicBeing09/Hadoop-Demo-Word-Count-with-Java-and-Maven.git)
 
-at least 3, async and persistent
+Blog
+- [Running single node MapReduce using docker and Hadoop Cluster][blog1]
+- [Cheetsheet of the custom jar file in Hadoop Cluster][blog2]
 
-protocol is rpc
+[Docker Tutorial](https://youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK)
+
+**1. Quiz**
+- On Docker and Hadoop
+- [**Quiz Link**](https://drive.google.com/file/d/1LrDVAtax3LOrDEuvccgKIFNk5Ehffmq2/view?usp=drive_link)
+
+**2. Task**
+- Execute task on a Hadoop cluster.
+- <img src = "Question/Lab_Final.jpg" alt = "Lab Final Question" align = "center" width="80%">
+- [Dataset](https://drive.google.com/file/d/1jib-_1B81cgm2lUinbMXo6dckyzxQQur/view?usp=drive_link) - Extract it and change the file extension to *txt*
+
+
+<!--References-->
+
+[blog1]: https://medium.com/@genius_meringue_gnat_79/running-single-node-mapreduce-using-docker-and-hadoop-cluster-41f5ec5b7650
+[blog2]: https://medium.com/@genius_meringue_gnat_79/cheetsheet-of-the-custom-jar-file-in-hadoop-cluster-23ee990cfadb
