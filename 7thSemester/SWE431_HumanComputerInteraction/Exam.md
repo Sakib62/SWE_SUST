@@ -2,10 +2,9 @@
 
 [**Question Collection**](https://drive.google.com/drive/folders/1ZC15wl-kdFYaWfpJuz6E4dKFRavlHaFc)
 
-<h3>Term Test-1: xth y, 2024</h3>
+<h3>Term Test-1: 7th March, 2024</h3>
 
-Chapter x to y
-- **Chx**
+- **Chapter 1 to 3**
 
 <img src = "Question/TT1.jpeg" alt = "TT1 Question" align = "center" width="80%">
 
