@@ -8,6 +8,12 @@
 
 <img src = "Question/TT1.jpeg" alt = "TT1 Question" align = "center" width="80%">
 
+<h3>Term Test-2: 16th May, 2024</h3>
+
+- **Chapter 4**
+
+<img src = "Question/TT2.jpeg" alt = "TT2 Question" align = "center" width="80%">
+
 <br><h2>Final: xth y, 2024</h2>
 
 Page 1 :
