@@ -4,11 +4,17 @@
 
 <h3>Term Test-1: 14th March, 2024</h3>
 
-- **Slide 2, 3, 4**
+- **Lecture 2, 3, 4**
 
 <img src = "Question/TT1.jpeg" alt = "TT1 Question" align = "center" width="80%">
 
-<br><h2>Final: xth y, 2024</h2>
+<h3>Term Test-2: 30th June, 2024</h3>
+
+- **Lecture 5, 6, 8**
+
+<img src = "Question/TT2.jpeg" alt = "TT2 Question" align = "center" width="80%">
+
+<br><h2>Final: 25th October, 2024</h2>
 
 Page 1 :
 
