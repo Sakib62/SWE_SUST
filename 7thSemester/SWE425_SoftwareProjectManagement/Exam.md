@@ -4,17 +4,17 @@
 
 <h3>Term Test-1: 4th March, 2024</h3>
 
-- **Unit-1**
+- **Unit-1 : Introduction to Software Project Management**
 
 <img src = "Question/TT1.jpeg" alt = "TT1 Question" align = "center" width="80%">
 
 <h3>Term Test-2: 8th May, 2024</h3>
 
-- **Unit-3**
+- **Unit-3: Activity Planning**
 
 <img src = "Question/TT2.jpeg" alt = "TT2 Question" align = "center" width="80%">
 
-<br><h2>Final: xth y, 2024</h2>
+<br><h2>Final: 27th October, 2024</h2>
 
 Page 1 :
 
