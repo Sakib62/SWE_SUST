@@ -1,7 +1,7 @@
 <h1 align="center">Computer Graphics and Image Processing</h1>
 
 **Book :**
-- Schaum's Outline of Theory and Problems of Computer Graphics
+- Theory and Problems of Computer Graphics - Schaum's Outline
 
 [✅**Book Link**][book]
 
@@ -9,17 +9,48 @@
 
 [✅**Resource Link**](https://drive.google.com/drive/folders/1te4v1SRzx-Vs-A75-z4Q-fbnvovLBWGO?usp=drive_link)
 
+**Playlist :** [**Lecturelia**](https://www.youtube.com/playlist?list=PLncy2sD7w4YpWn8jM9Sk6ISOsCZ7oLn9r)
+
 **Question :** [**Exam.md**](Exam.md)
 
 <br><hr><br>
 
-**21st January, 2024**
+### Computer Graphics and Image
 
-- Basics
-- PPI = Pixels Per Inch = Resolution
-- A 3x2 inch image, 300 ppi. So, 3x2x300^2 = 54000 pixels. Pixels in inch, Image in square inch. In x axis 300; 3x300, in y axis 300; 2x300.
-- Pixel is a piece of information, each pixel has a logical address.
+- What is Computer Graphics, Image, Pixel, Digital Image, Resolution?
+- Why color range is (0-255) ?
+- Why 24bit is better than 8bit Channel ?
+- A 3x2 inch image at resolution of 300 pixels per inch would have a total pixels off ?
+    - A 3x2 inch image, 300 ppi. So, 3x2x300^2 = 54000 pixels. Pixels in inch, Image in square inch. In x axis 300; 3x300, in y axis 300; 2x300.
 - Image resolution (varies) vs Screen Resolution (fixed)
-- VR vs AR
-- How the human eye works? https://www.animagraffs.com/human-eye
-- PPI vs DPI (dot per inch) https://99designs.com/blog/tips/ppi-vs-dpi-whats-the-difference/
+- VR vs AR, PPI vs DPI
+
+### Color
+
+- RGB Color Model
+- CMY and CMYK Model
+- Direct Coding
+- Lookup Table, how it reduces image size?
+
+### Scan Conversion
+
+- Scan Conversion / Rasterization
+- Scan Converting a point, line, circle
+- Line Drawing Algorithm
+    - Direct Line Equations
+    - DDA (Digital Differential Analyzer)
+    - Bresenham
+- 8 way symmetry of circle
+- Circle Drawing Algorithm
+    - Bresenham
+    - Midpoint
+
+### Transformation
+
+- 2d and 3d
+- Translation, Scaling, Rotation, Reflection, Shearing
+
+### Line Clipping
+
+- Cohen-Sutherland
+- Liang-barsky

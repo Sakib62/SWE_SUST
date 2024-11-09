@@ -1,27 +1,31 @@
 <h1 align="center">Computer Graphics and Image Processing - Lab</h1>
 
-Tool - OpenGL
+## Syllabus
 
-- **Line Drawing - Bresenhams**
-    - Bresenham's algorithm is a commonly used method for drawing lines on a computer screen. It is efficient and widely employed in graphics programming to determine which pixels to illuminate to form a straight line.
-- **Region Filling - Scan Line Algorithm**
-    - The Scan Line Algorithm is used for filling closed regions in computer graphics. It works by scanning lines from the bottom to the top of the region and determining which pixels to color based on intersections with the polygon edges.
-- **Transformation - 2D and 3D translation**
-    - Translation involves moving an object from one location to another. In 2D and 3D graphics, translation refers to shifting an object along the x, y, and z axes.
-- **Rotation, Scaling and Clipping - Line and Polygon**
-    - Rotation involves rotating objects around a specified point or axis. Scaling involves resizing objects. Clipping is the process of removing portions of an object that are outside the view or window.
-- **Projection - Perspective and Parallel**
-    - Projection is the process of transforming 3D coordinates into 2D coordinates for display. Perspective projection simulates how objects appear smaller as they move farther away. Parallel (orthographic) projection maintains object sizes regardless of their distance from the viewer.
-- **Animation - Morphing**
-    - Animation involves creating a sequence of images to give the illusion of motion. Morphing specifically refers to a smooth transformation between two images, where one gradually changes into the other.
+- Scan conversion(point, line, circle using algo defined)
+- Geometric Transformation(translation, rotation, scaling, mirroring)
+- Coordinate Transformation(same as the previous one)
+- 2D Transformation(point, line clipping algo)
 
-<br><blockquote>
+## Library
+- OpenGL, WebGL, ModernGL, or any graphics library you prefer
 
-SWE16 Lab
-- [**Git Repo**](https://github.com/CosmicBeing09/Image-Processing-Lab-Assignment)
-- Bresenham Line, Circle Drawing Algorithm
-- Cohen Sutherland Line Clipping Algorithm
-- DDA Line Drawing Algorithm
-- Midpoint Circle Drawing Algorithm
-- Sutherland Hodgeman Polygon Clipping Algorithm
-</blockquote>
+## Question Type
+
+- You have to draw some figures in the lab final exam.
+- You will be able to use the code that you have exercised. Other than that any other assistance from the Internet will be restricted.
+- Before the exam, you must have a PC with all the required environment settings. You will be able to use your own PC in the exam.
+
+- [**Demo Code**](https://github.com/Fazle-Rakib/Computer-Graphics-Basics)
+
+<hr><hr>
+
+<h3>Lab Final: 8th November, 2024</h3>
+
+**SWE19 - Lab Final**
+
+<img src = "Question/Lab Final - SWE19.jpg" alt = "Lab Final SWE19 Question" align = "center" width="80%"><br>
+
+**SWE18 - Lab Final**
+
+<img src = "Question/Lab Final - SWE18.jpg" alt = "Lab Final SWE18 Question" align = "center" width="80%">
