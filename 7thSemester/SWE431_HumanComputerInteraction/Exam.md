@@ -4,11 +4,13 @@
 
 <h3>Term Test-1: 7th March, 2024</h3>
 
-- **Chapter 1 to 3**
+- **Chapter 1 - Introduction**
+- **Chapter 2 - Specific HCI Guidelines**
+- **Chapter 3 - Human Factors as HCI Theories**
 
 <img src = "Question/TT1.jpeg" alt = "TT1 Question" align = "center" width="80%">
 
-<br><h2>Final: xth y, 2024</h2>
+<br><h2>Final: 10th November, 2024</h2>
 
 Page 1 :
 
