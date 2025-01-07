@@ -121,3 +121,25 @@ PDF's of books recommended by Teachers.
 [ml]: https://drive.google.com/drive/folders/1NgKEQcqaKN4nQITZk3uVENJrLIgLjVzd
 
 <br><hr><hr><br>
+
+## ✅7th Semester
+
+### [Information and Network Security][ins]
+- Stallings - CRYPTOGRAPHY AND NETWORK SECURITY : PRINCIPLES AND PRACTICE, Global Edition (7th Edition)
+- Goodrich - Introduction to Computer Security (First Edition)
+
+### [Software Project Management][spm]
+- Resource Material on SPM
+
+### [Computer Graphics and Image Processing][cgi]
+- Schaum's Outline of Theory and Problems of Computer Graphics - Plastock, Roy A._ Xiang, Zhigang -McGraw-Hill (2000)
+
+### [Human Computer Interaction][hci]
+- Gerard Jounghyun Kim - Human-Computer Interaction  Fundamentals and Practice - Auerbach Publications (2015)
+
+[ins]: https://drive.google.com/drive/folders/1_IBMwGkua52g4yEUajKonqdwKZWEpMW8?usp=sharing
+[spm]: https://drive.google.com/drive/folders/1Kp4ne0pnsySOTZbQ1ugquj-F4ju0-8mD?usp=sharing
+[cgi]: https://drive.google.com/drive/folders/19Ba3WzuYFfn1z8l-EF4eahuvKrZMkSkn?usp=sharing
+[hci]: https://drive.google.com/drive/folders/1P1fbnOF9mtkv7j_EIepQfKrcRHVw71gU?usp=sharing
+
+<br><hr><hr><br>
